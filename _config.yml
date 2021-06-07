@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Natalie Linton"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Natalie Linton"
+description              : &description "Infectious disease epidemiologist"
 url                      : https://nlinton.github.io # site base hostname & protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nlinton/nlinton.github.io"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Natalie Linton"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Infectious disease epidemiologist"
   location         : "Kyoto, Japan"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jMXWOokAAAAJ"
   uri              :
   flickr           :
   github           : "nlinton"
