@@ -159,19 +159,22 @@ _Infectious disease epidemiologist_
 
 ***
 ### Professional memberships
-Japan Epidemiological Association (2021)
-Japanese Society for Hygiene (2019)
-Council of State and Territorial Epidemiologists (2015-2017)
-Washington State Public Health Association (2015-2017)
-American Public Health Association (2015)
-Oregon Public Health Association (2013-2015)
+Japan Epidemiological Association (2021)<br>
+Society for Mathematical Biology (2020)<br>
+Japanese Society for Hygiene (2019)<br>
+Council of State and Territorial Epidemiologists (2015-2017)<br>
+Washington State Public Health Association (2015-2017)<br>
+American Public Health Association (2015)<br>
+Oregon Public Health Association (2013-2015)<br>
 
 ## Peer-reviewed publications
 **2021**<br>
+Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
+<br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
 **2020**<br>
-<u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. J Clin Med. 2020;9(538). [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
+<u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(538). [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
 <u>Linton NM</u>, Keita M, Moitinho de Almeida M, et al. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
 <br><br>
