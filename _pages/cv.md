@@ -250,3 +250,51 @@ Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story
 <br><br>
 **2015**<br>
 "Evaluation of Hepatitis C Surveillance in Washington State." ISDS 2015. Poster presentation.
+
+***
+## Other work and volunteer activities
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2018-2021</td>
+<td markdown="span">Freelance Private English Tutor, Sapporo and Kyoto, Japan</td>
+</tr>
+<tr>
+<td markdown="span">2017</td>
+<td markdown="span">Volunteer Gardener, Seattle Japanese Garden, Seattle, WA</td>
+</tr>
+<tr>
+<td markdown="span">2017</td>
+<td markdown="span">Summit Ambassador, Summit at Snoqualmie, Seattle, WA</td>
+</tr>
+<tr>
+<td markdown="span">2013-2014</td>
+<td markdown="span">Healthcare Interpreter Training, Central Oregon Community College, Bend, ORy</td>
+</tr>
+<tr>
+<td markdown="span">2012-2013</td>
+<td markdown="span">Volunteer, American Red Cross, La Grande, OR</td>
+</tr>
+<tr>
+<td markdown="span">2010-2011</td>
+<td markdown="span">Private English Tutor (part-time), R-pool Inc., Kyoto, Japan</td>
+</tr>
+<tr>
+<td markdown="span">2008</td>
+<td markdown="span">Intern (part-time), Freer and Sackler Galleries, Washington, DC</td>
+</tr>
+<tr>
+<td markdown="span">2006-2008</td>
+<td markdown="span">Hydrologic Technician (part-time), United States Geological Survey, San Diego, CA</td>
+</tr>
+<tr>
+<td markdown="span">2006</td>
+<td markdown="span">Summer Intern (full-time), United States Geological Survey, San Diego, CA</td>
+</tr>
+<tr>
+<td markdown="span">2004-2007</td>
+<td markdown="span">Volunteer, Friends of the Library, San Diego Public Library, San Diego, CA</td>
+</tr>
+</tbody>
+</table>
