@@ -214,6 +214,8 @@ Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story
 ***
 ## Conference presentations
 **2021**<br>
+"Variation in serial interval distribution among reported cases in Japan." [SMB 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
+<br><br><br>
 "First and second wave serial interval of COVID-19 in Japan." [The 91st Annual Meeting of the Japanese Society for Hygiene](https://pcojapan.jp/jsh91/). March 8, 2021. Oral presentation.
 <br><br>
 "Localized end-of-outbreak determination for COVID-19: Examples from clusters in Japan." [The 31st Annual Scientific Meeting of the Japanese Epidemiological Association](https://jea31.com/). January 28, 2021. Oral presentation.
@@ -250,6 +252,10 @@ Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story
 <br><br>
 **2015**<br>
 "Evaluation of Hepatitis C Surveillance in Washington State." ISDS 2015. Poster presentation.
+<br><br>
+**2014**<br>
+Grand Ronde Walks With Ease: a tribal-university partnership to offer a walking program for elders with arthritis. Contemporary Northwest Tribal Health Conference. March 2014. Oral presentation.
+<br>
 
 ***
 ## Other work and volunteer activities
