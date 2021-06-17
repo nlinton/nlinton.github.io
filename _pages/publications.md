@@ -40,7 +40,11 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. PLoS One. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
 ***
-## Other scientific publications
+## Reports ##
+Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
+
+***
+## Other scientific writing
 <u>ナタリー・リントン</u>、西浦博、“2次感染パターンからわかる新型コロナウイルスの急所”、[実験医学増刊 Vol.39 No.2](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html).
 <br><br>
 <u>ナタリー・リントン</u>、西浦博、“感染症流行の収束にまつわる数理”、[数学セミナー、2020年9月号](https://www.nippyo.co.jp/blogsusemi/2020/08/11/%e6%95%b0%e5%ad%a6%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc2020%e5%b9%b49%e5%8f%b7-%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/).
