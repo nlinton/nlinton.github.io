@@ -40,6 +40,14 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. PLoS One. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
 ***
+## Preprints ##
+**2021**<br>
+Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. medRxiv. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
+<br><br>
+**2020**<br>
+Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. bioRxiv. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
+
+***
 ## Reports ##
 Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
 
