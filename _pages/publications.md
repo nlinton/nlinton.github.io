@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Peer-reviewed publications
 **2021**<br>
 Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
