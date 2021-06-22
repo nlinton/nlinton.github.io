@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-# Natalie Linton
-_Infectious disease epidemiologist_
-<br>
-<!-- [Website](https://nlinton.github.io) -->
-
 ***
 ## Education
 <table cellspacing="0" cellpadding="0">
