@@ -15,7 +15,7 @@ _Infectious disease epidemiologist_
 <!-- [Website](https://nlinton.github.io) -->
 
 ***
-## Degrees
+## Education
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
@@ -43,7 +43,7 @@ _Infectious disease epidemiologist_
 </table>
 
 ***
-## Full-time employment
+## Employment
 **Washington State Department of Health**
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
@@ -81,7 +81,7 @@ _Infectious disease epidemiologist_
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
-<td markdown="span">Independent Contractor (part-time), Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
+<td markdown="span">Independent Contractor (remote), Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
 </tr>
 <tr>
 <td markdown="span">2013-2014</td>
@@ -145,11 +145,13 @@ _Infectious disease epidemiologist_
 </tr>
 <tr>
 <td markdown="span">Spanish</td>
-<td markdown="span">Advanced; [Spanish Healthcare Interpreter Program, 2012-2013, Central Oregon Community College](https://www.cocc.edu/departments/continuinged/spanish-health-care-interpreter-training.aspx)</td>
+<td markdown="span">Advanced<br>
+[Spanish Healthcare Interpreter Program](https://www.cocc.edu/departments/continuinged/spanish-health-care-interpreter-training.aspx), 2012-2013, Central Oregon Community College</td>
 </tr>
 <tr>
 <td markdown="span">Japanese</td>
-<td markdown="span">Working professional; [Japanese Language Proficiency Test](https://www.jlpt.jp/e/about/levelsummary.html), Level N1, 2011, Japan Foundation</td>
+<td markdown="span">Working professional<br>
+[Japanese Language Proficiency Test](https://www.jlpt.jp/e/about/levelsummary.html), Level N1, 2011, Japan Foundation</td>
 </tr>
 <tr>
 <td markdown="span">French</td>
@@ -195,19 +197,19 @@ Oregon Public Health Association (2013-2015)<br>
 </tr>
 <tr>
 <td markdown="span">2010-2011</td>
-<td markdown="span">Private English Tutor (part-time), R-pool Inc., Kyoto, Japan</td>
+<td markdown="span">Private English Tutor, R-pool Inc., Kyoto, Japan</td>
 </tr>
 <tr>
 <td markdown="span">2008</td>
-<td markdown="span">Intern (part-time), Freer and Sackler Galleries, Washington, DC</td>
+<td markdown="span">Intern, Freer and Sackler Galleries, Washington, DC</td>
 </tr>
 <tr>
 <td markdown="span">2006-2008</td>
-<td markdown="span">Hydrologic Technician (part-time), United States Geological Survey, San Diego, CA</td>
+<td markdown="span">Hydrologic Technician, United States Geological Survey, San Diego, CA</td>
 </tr>
 <tr>
 <td markdown="span">2006</td>
-<td markdown="span">Summer Intern (full-time), United States Geological Survey, San Diego, CA</td>
+<td markdown="span">Summer Intern, United States Geological Survey, San Diego, CA</td>
 </tr>
 <tr>
 <td markdown="span">2004-2007</td>
