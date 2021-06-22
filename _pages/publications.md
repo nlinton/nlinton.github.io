@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed publications
+## Peer-reviewed publications ##
 **2021**<br>
 Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
 <br><br>
@@ -48,15 +48,18 @@ Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmi
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. bioRxiv. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
 ***
-## Reports ##
+## Government reports ##
+まん延防止等重点措置と緊急事態宣言が新型コロナウイルス感染症の流行動態に及ぼした効果に関する定量的評価（暫定版）June 2021. [NIID](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html)
+<br>
+<br>
 Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
 
 ***
-## Other scientific writing
+## Other scientific writing ##
 <u>ナタリー・リントン</u>、西浦博、“2次感染パターンからわかる新型コロナウイルスの急所”、[実験医学増刊 Vol.39 No.2](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html).
 <br><br>
 <u>ナタリー・リントン</u>、西浦博、“感染症流行の収束にまつわる数理”、[数学セミナー、2020年9月号](https://www.nippyo.co.jp/blogsusemi/2020/08/11/%e6%95%b0%e5%ad%a6%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc2020%e5%b9%b49%e5%8f%b7-%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/).
 
 ***
-## Book contributions
+## Book contributions ##
 Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones.  ISBN-10: 1888691174.
