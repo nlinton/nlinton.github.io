@@ -32,9 +32,9 @@ author_profile: true
 "Salmonella I 4,5,12:i:- infections associated with pork, Washington State, 2015 and 2016." AZID. July 19, 2017. Oral presentation.
 <br><br>
 **2016**<br>
-"Hepatitis C." 2016 Washington State Public Health Association Annual Conference. October 5, 2016. Oral presentation.
+"Hepatitis C." Washington State Public Health Association (WSPHA) Joint Conference on Health. October 5, 2016. Panel member.
 <br><br>
-"Reporting of pregnancy in refugee women infected with hepatitis B for case management, Washington State 2006–2015." Washington State Public Health Association (WSPHA) Joint Conference on Health. October 5, 2016. Oral presentation.
+"Reporting of pregnancy in refugee women infected with hepatitis B for case management, Washington State 2006–2015." Washington State Public Health Association Joint Conference on Health. October 5, 2016. Oral presentation.
 <br><br>
 "*Salmonella I 4,[5],12:i:-* infections linked to pork--Washington State, 2015–2016." [2016 CSTE Annual Conference](https://cste.confex.com/cste/2016/webprogram/start.html). Oral presentation.
 <br><br>

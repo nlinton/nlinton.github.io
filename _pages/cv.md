@@ -118,7 +118,7 @@ redirect_from:
 </tr>
 <tr>
 <td markdown="span">2009-2010</td>
-<td markdown="span">[Monbukagakusho Honors Scholarship for Privately Financed International Students](https://www.jasso.go.jp/en/study_j/scholarships/shoureihi/about.html), Ritsumeikan University</td>
+<td markdown="span">[Monbukagakusho Honors Scholarship for Privately Financed International Students](https://www.jasso.go.jp/en/study_j/scholarships/shoureihi/about.html), Japan Student Services Organization (JASSO)</td>
 </tr>
 <tr>
 <td markdown="span">2007-2008</td>
@@ -155,13 +155,20 @@ redirect_from:
 
 ***
 ### Professional memberships
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr><td markdown="span">
 Japan Epidemiological Association (2021)<br>
 Society for Mathematical Biology (2020)<br>
 Japanese Society for Hygiene (2019)<br>
 Council of State and Territorial Epidemiologists (2015-2017)<br>
 Washington State Public Health Association (2015-2017)<br>
 American Public Health Association (2015)<br>
-Oregon Public Health Association (2013-2015)<br>
+Oregon Public Health Association (2013-2015)<br></td>
+</td></tr>
+</tbody>
+</table>
 
 ***
 ## Other work and volunteer activities
