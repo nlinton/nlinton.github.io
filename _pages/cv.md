@@ -133,22 +133,22 @@ redirect_from:
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
 <tr>
-<td markdown="span">English</td>
 <td markdown="span">Native</td>
+<td markdown="span">English</td>
 </tr>
 <tr>
-<td markdown="span">Spanish</td>
-<td markdown="span">Advanced<br>
+<td markdown="span">Advanced</td>
+<td markdown="span">Spanish<br>
 [Spanish Healthcare Interpreter Program](https://www.cocc.edu/departments/continuinged/spanish-health-care-interpreter-training.aspx), 2012-2013, Central Oregon Community College</td>
 </tr>
 <tr>
-<td markdown="span">Japanese</td>
-<td markdown="span">Working professional<br>
+<td markdown="span"></td>
+<td markdown="span">Japanese<br>
 [Japanese Language Proficiency Test](https://www.jlpt.jp/e/about/levelsummary.html), Level N1, 2011, Japan Foundation</td>
 </tr>
 <tr>
-<td markdown="span">French</td>
 <td markdown="span">Reading</td>
+<td markdown="span">French</td>
 </tr>
 </tbody>
 </table>
