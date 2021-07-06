@@ -27,7 +27,7 @@ author_profile: true
 "Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." June 11, 2019. Poster presentation. *\*received an award*
 <br><br>
 **2017**<br>
-"Tdap vaccination coverage among teenage mothers in Washington State." CSTE 2017. Oral presentation.
+"Tdap vaccination coverage among teenage mothers in Washington State." [2017 CSTE Annual Conference](https://cste.confex.com/cste/2017/webprogram/start.html). Oral presentation.
 <br><br>
 "Salmonella I 4,5,12:i:- infections associated with pork, Washington State, 2015 and 2016." AZID. July 19, 2017. Oral presentation.
 <br><br>
@@ -36,7 +36,7 @@ author_profile: true
 <br><br>
 "Reporting of pregnancy in refugee women infected with hepatitis B for case management, Washington State 2006–2015." Washington State Public Health Association (WSPHA) Joint Conference on Health. October 5, 2016. Oral presentation.
 <br><br>
-"*Salmonella I 4,[5],12:i:-* infections linked to pork--Washington State, 2015–2016." CSTE 2016. Oral presentation.
+"*Salmonella I 4,[5],12:i:-* infections linked to pork--Washington State, 2015–2016." [2016 CSTE Annual Conference](https://cste.confex.com/cste/2016/webprogram/start.html). Oral presentation.
 <br><br>
 "*Salmonella I 4,[5],12:i:-* infections linked to pork--Washington State, 2015–2016." Washington Zoonotic and Vectorborne-Disease Workshop. June 21, 2016. Oral presentation.
 <br><br>
