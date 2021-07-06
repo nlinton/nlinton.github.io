@@ -29,6 +29,8 @@ Nishiura H, Jung S, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi 
 Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A,
 Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. J Clin Med. 2020. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
+Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM<u/>, Yoshii K. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. EID. 2020;26(11). [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
+<br><br>
 **2017**<br>
 Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. MMWR. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
 <br><br>

@@ -9,7 +9,7 @@ author_profile: true
 ## Conference presentations ##
 **2021**<br>
 "Variation in the serial interval distribution among reported cases in Japan." [SMB 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
-<br><br><br>
+<br><br>
 "First and second wave serial interval of COVID-19 in Japan." [The 91st Annual Meeting of the Japanese Society for Hygiene](https://pcojapan.jp/jsh91/). March 8, 2021. Oral presentation.
 <br><br>
 "Localized end-of-outbreak determination for COVID-19: Examples from clusters in Japan." [The 31st Annual Scientific Meeting of the Japanese Epidemiological Association](https://jea31.com/). January 28, 2021. Oral presentation.
@@ -20,9 +20,9 @@ author_profile: true
 "Reconstructing the transmission network of African swine fever in the People’s Republic of China, August 2018–September 2019." The 90th Annual Meeting of the Japanese Society for Hygiene. *\*cancelled due to pandemic*
 <br><br>
 **2019**<br>
-"Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." Epidemics^7. December 3-6, 2019. Poster presentation.
+"Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." [Epidemics^7](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics/about/previous-epidemics-conferences). December 3-6, 2019. Poster presentation.
 <br><br>
-"Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." The 89th Annual Meeting of the Japanese Society for Hygiene. Oral presentation.
+"Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." [The 89th Annual Meeting of the Japanese Society for Hygiene](http://www.nihon-eisei.org/annualmeeting/89/). Oral presentation.
 <br><br>
 "Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017." June 11, 2019. Poster presentation. *\*received an award*
 <br><br>
