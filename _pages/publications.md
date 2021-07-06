@@ -7,10 +7,11 @@ author_profile: true
 
 ## Peer-reviewed publications ##
 **2021**<br>
-Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
-<br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
+Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
+<br><br>
+
 **2020**<br>
 <u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(538). [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
@@ -31,9 +32,11 @@ Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV)
 <br><br>
 Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. EID. 2020;26(11). [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
 <br><br>
+
 **2017**<br>
 Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. MMWR. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
 <br><br>
+
 **2016**<br>
 Conte KP, Odden MC, <u>Linton NM</u>, Harvey MS. Effectiveness of a scaled-up arthritis self-management program in Oregon: Walk with ease. Am J Public Health. 2016;106(12). [doi:10.2105/AJPH.2016.303478](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303478)
 <br><br>
@@ -47,7 +50,7 @@ Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chr
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. medRxiv. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
 **2020**<br>
-Akhmetzhanov AR, Linton NM, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? medRxiv. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
+Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? medRxiv. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. bioRxiv. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
