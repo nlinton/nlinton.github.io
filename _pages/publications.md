@@ -29,7 +29,7 @@ Nishiura H, Jung S, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi 
 Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A,
 Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. J Clin Med. 2020. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
-Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM<u/>, Yoshii K. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. EID. 2020;26(11). [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
+Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. EID. 2020;26(11). [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
 <br><br>
 **2017**<br>
 Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. MMWR. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
@@ -47,6 +47,8 @@ Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chr
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. medRxiv. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
 **2020**<br>
+Akhmetzhanov AR, Linton NM, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? medRxiv. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
+<br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. bioRxiv. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
 ***
