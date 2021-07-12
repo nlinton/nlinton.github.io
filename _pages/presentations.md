@@ -8,7 +8,7 @@ author_profile: true
 
 ## Conference presentations ##
 **2021**<br>
-"Variation in the serial interval distribution among reported cases in Japan." [SMB 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
+"Variation in the serial interval distribution among reported cases in Japan." [Society for Mathematical Biology 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
 <br><br>
 "First and second wave serial interval of COVID-19 in Japan." [The 91st Annual Meeting of the Japanese Society for Hygiene](https://pcojapan.jp/jsh91/). March 8, 2021. Oral presentation.
 <br><br>
@@ -40,13 +40,17 @@ author_profile: true
 <br><br>
 "*Salmonella I 4,[5],12:i:-* infections linked to pork--Washington State, 2015–2016." Washington Zoonotic and Vectorborne-Disease Workshop. June 21, 2016. Oral presentation.
 <br><br>
-"Completeness and consistency of reporting pregnancy for refugee women infected with hepatitis B to local health jurisdictions for case management in Washington State, 2006–2015." 2016 North American Refugee Health Conference. June 12, 2016. Niagara Falls, NY, USA. Oral presentation.
+"Completeness and consistency of reporting pregnancy for refugee women infected with hepatitis B to local health jurisdictions for case management in Washington State, 2006–2015." [2016 North American Refugee Health Conference](http://refugeesociety.org/north-american-refugee-health-conference). June 12, 2016. Niagara Falls, NY, USA. Oral presentation.
 <br><br>
-"Causes of mortality among refugees resettled to Washington State, 2006–2015." 2016 North American Refugee Health Conference. June 12, 2016. Niagara Falls, NY, USA. Poster presentation.
+"Causes of mortality among refugees resettled to Washington State, 2006–2015." [2016 North American Refugee Health Conference](http://refugeesociety.org/north-american-refugee-health-conference). June 12, 2016. Niagara Falls, NY, USA. Poster presentation.
 <br><br>
 **2015**<br>
-"Evaluation of Hepatitis C Surveillance in Washington State." ISDS 2015. Poster presentation.
+"Evaluation of Hepatitis C Surveillance in Washington State." [2015 International Society for Disease Surveillance Conference: Harnessing Data to Advance Health Equity](https://knowledgerepository.syndromicsurveillance.org/2015-international-society-disease-surveillance-conference-harnessing-data-advance-health-equity). Poster presentation.
 <br><br>
 **2014**<br>
 Grand Ronde Walks With Ease: a tribal-university partnership to offer a walking program for elders with arthritis. Contemporary Northwest Tribal Health Conference. March 2014. Oral presentation.
-<br>
+
+
+
+## Workshops ##
+Chronic Disease Self-Management Program lay-leader. 
