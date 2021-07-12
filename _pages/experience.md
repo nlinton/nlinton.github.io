@@ -37,7 +37,7 @@ redirect_from:
 
 ***
 ## Employment
-**Washington State Department of Health**
+*Washington State Department of Health*
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
@@ -52,7 +52,7 @@ redirect_from:
 </tbody>
 </table>
 <br>
-**Centers for Disease Control and Prevention (CDC)**
+*Centers for Disease Control and Prevention (CDC)*
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
@@ -64,7 +64,7 @@ redirect_from:
 </table>
 
 ***
-## Internships, technical assistance, and consulting
+## Research, technical assistance, and consulting
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
@@ -165,7 +165,7 @@ Japanese Society for Hygiene (2019)<br>
 Council of State and Territorial Epidemiologists (2015-2017)<br>
 Washington State Public Health Association (2015-2017)<br>
 American Public Health Association (2015)<br>
-Oregon Public Health Association (2013-2015)<br></td>
+Oregon Public Health Association (2013-2015)<br>
 </td></tr>
 </tbody>
 </table>
