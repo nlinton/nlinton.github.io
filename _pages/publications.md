@@ -13,26 +13,27 @@ Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Es
 <br><br>
 
 **2020**<br>
-<u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(538). [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
+<u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
 <u>Linton NM</u>, Keita M, Moitinho de Almeida M, et al. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
 <br><br>
 <u>Linton NM</u>, DeBolt C, Newman LP, Tasslimi A, Matheson J. Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016. <i>J Immigr Minor Heal</i>. 2020;22:3-9. [doi:10.1007/s10903-019-00949-8](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)
 <br><br>
-Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020:113332. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
+Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
 <br><br>
-Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020:2019-2021. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
+Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
 <br><br>
 Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(601). [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
 <br><br>
-Nishiura H, Jung S, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Baoyin Y, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2). [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
+Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Baoyin Y, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
 <br><br>
-Kinoshita R, Anzai A, Jung S, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
+Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
 <br><br>
-Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A,
-Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
+Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
-Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11). [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
+Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11):2591-2597. [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
+<br><br>
+Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270890/)
 <br><br>
 
 **2017**<br>
