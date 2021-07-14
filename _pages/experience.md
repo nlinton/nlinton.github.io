@@ -156,7 +156,7 @@ redirect_from:
 ***
 ### Professional memberships
 <table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<colgroup><col width="100%" /></colgroup>
 <tbody>
 <tr><td markdown="span">
 Japan Epidemiological Association (2021)<br>
