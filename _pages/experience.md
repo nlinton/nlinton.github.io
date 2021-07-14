@@ -154,23 +154,6 @@ redirect_from:
 </table>
 
 ***
-### Professional memberships
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="100%" /></colgroup>
-<tbody>
-<tr><td markdown="span">
-Japan Epidemiological Association (2021)<br>
-Society for Mathematical Biology (2020)<br>
-Japanese Society for Hygiene (2019)<br>
-Council of State and Territorial Epidemiologists (2015-2017)<br>
-Washington State Public Health Association (2015-2017)<br>
-American Public Health Association (2015)<br>
-Oregon Public Health Association (2013-2015)<br>
-</td></tr>
-</tbody>
-</table>
-
-***
 ## Other work and volunteer activities
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
