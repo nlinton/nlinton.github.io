@@ -13,7 +13,7 @@ Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Es
 <br><br>
 
 **2020**<br>
-<u>Linton NM</u>, Kobayashi T, Yang Y, et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
+<u>Linton NM</u>, Kobayashi T, Yang Y, Hayashi K, Akhmetzhanov AR, Jung S-m, Yuan B, Kinoshita R, Nishiura H. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
 <u>Linton NM</u>, Keita M, Moitinho de Almeida M, et al. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
 <br><br>
