@@ -19,7 +19,8 @@ Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Es
 <br><br>
 <u>Linton NM</u>, DeBolt C, Newman LP, Tasslimi A, Matheson J. Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016. <i>J Immigr Minor Heal</i>. 2020;22:3-9. [doi:10.1007/s10903-019-00949-8](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)
 <br><br>
-Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext) <a href="/files/pubs/Nishiura_2020_SI.pdf"><img src="/images/pdf_24x24.png"/></a>
+Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
+<!-- <a href="/files/pubs/Nishiura_2020_SI.pdf"><img src="/images/pdf_24x24.png"/></a> -->
 <br><br>
 Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
 <br><br>
