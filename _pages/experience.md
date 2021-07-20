@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Education and Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ redirect_from:
 <tbody>
 <tr>
 <td markdown="span">(2021)</td>
-<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University, 2021 (expected)</td>
+<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University (expected)</td>
 </tr>
 <tr>
 <td markdown="span">2018</td>
