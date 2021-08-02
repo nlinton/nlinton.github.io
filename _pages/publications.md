@@ -28,13 +28,15 @@ Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y
 <br><br>
 Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Baoyin Y, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
 <br><br>
+Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i> 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
+<br><br>
 Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
 <br><br>
 Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
 Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11):2591-2597. [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
 <br><br>
-Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270890/)
+Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
 
 **2017**<br>
@@ -67,7 +69,7 @@ Viral Hepatitis C in Washington State. June 2016. Washington State Department of
 
 ***
 ## Other scientific writing ##
-<u>ナタリー・リントン</u>、西浦博、“2次感染パターンからわかる新型コロナウイルスの急所”、[実験医学増刊 Vol.39 No.2](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html).
+<u>ナタリー・リントン</u>、西浦博、“2次感染パターンからわかる新型コロナウイルスの急所”、[実験医学増刊 2021年Vol.39 No.2](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html).
 <br><br>
 <u>ナタリー・リントン</u>、西浦博、“感染症流行の収束にまつわる数理”、[数学セミナー、2020年9月号](https://www.nippyo.co.jp/blogsusemi/2020/08/11/%e6%95%b0%e5%ad%a6%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc2020%e5%b9%b49%e5%8f%b7-%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/).
 
