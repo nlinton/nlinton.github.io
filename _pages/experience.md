@@ -148,7 +148,7 @@ redirect_from:
 </tr>
 <tr>
 <td markdown="span">Reading</td>
-<td markdown="span">French</td>
+<td markdown="span">French, German</td>
 </tr>
 </tbody>
 </table>
@@ -169,10 +169,6 @@ redirect_from:
 <tr>
 <td markdown="span">2017</td>
 <td markdown="span">Summit Ambassador, Summit at Snoqualmie, Seattle, WA</td>
-</tr>
-<tr>
-<td markdown="span">2013-2014</td>
-<td markdown="span">Healthcare Interpreter Training, Central Oregon Community College, Bend, ORy</td>
 </tr>
 <tr>
 <td markdown="span">2012-2013</td>

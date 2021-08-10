@@ -38,6 +38,8 @@ Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahas
 <br><br>
 Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
+Hitoshi Oshitani, <u>The Expert Members of The National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
+<br><br>
 
 **2017**<br>
 Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. <i>MMWR</i>. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
