@@ -47,7 +47,7 @@ redirect_from:
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
-<td markdown="span">CDC/CSTE Applied Epidemiology Fellow</td>
+<td markdown="span">[CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/)</td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ redirect_from:
 <tbody>
 <tr>
 <td markdown="span">2011-2013</td>
-<td markdown="span">Public Health Associate</td>
+<td markdown="span">[Public Health Associate](https://www.cdc.gov/phap/about/index.html)</td>
 </tr>
 </tbody>
 </table>
@@ -109,11 +109,11 @@ redirect_from:
 <td markdown="span">[Boren Fellowship](https://www.borenawards.org), Boren Awards for International Study</td>
 </tr>
 <tr>
-<td markdown="span">2014</td>
+<td markdown="span">2014-2015</td>
 <td markdown="span">Warren & Frederica Schad Fellowship, Oregon State University</td>
 </tr>
 <tr>
-<td markdown="span">2013</td>
+<td markdown="span">2013-2014</td>
 <td markdown="span">Graduate Laurels Scholarship, Oregon State University</td>
 </tr>
 <tr>
