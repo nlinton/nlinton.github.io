@@ -67,7 +67,7 @@ Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H.
 まん延防止等重点措置と緊急事態宣言が新型コロナウイルス感染症の流行動態に及ぼした効果に関する定量的評価（暫定版）June 2021. [NIID](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html)
 <br>
 <br>
-Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
+Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
 
 ***
 ## Other scientific writing ##
