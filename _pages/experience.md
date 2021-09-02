@@ -38,6 +38,7 @@ redirect_from:
 ***
 ## Employment
 *Washington State Department of Health*
+Office of Communicable Disease Epidemiology
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
