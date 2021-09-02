@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br>
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
-<br><br> 
+<br>
 
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
@@ -57,10 +58,14 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
 
+<br>
+[Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
+<br>
+
 ## <a name="pp"></a> Preprints ##
 ***
 **2021**<br>
-<u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. <i>medRxiv</i>. 2021. [10.1101/2021.08.29.21262512](https://www.medrxiv.org/content/10.1101/2021.08.29.21262512v1)
+<u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. <i>medRxiv</i>. 2021. [doi:10.1101/2021.08.29.21262512](https://www.medrxiv.org/content/10.1101/2021.08.29.21262512v1)
 <br><br>
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
@@ -71,10 +76,10 @@ Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H.
 
 ***
 ## <a name="gr"></a> Government reports ##
-まん延防止等重点措置と緊急事態宣言が新型コロナウイルス感染症の流行動態に及ぼした効果に関する定量的評価（暫定版）June 2021. National Institute of Infectious Diseases (NIID), Japan. [Link](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html)
+Quantitative Evaluation of the Effects of Priority Measures for the Prevention of Spread of Infectious Diseases and Emergency Declarations on the Epidemic Dynamics of Novel Coronavirus Infections (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html)
 <br>
 <br>
-Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
+Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health. Lead contributor; designer and editor. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
 
 
 ## <a name="osw"></a> Other scientific writing ##
@@ -86,4 +91,4 @@ Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washi
 
 ## <a name="bc"></a> Book contributions ##
 ***
-Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones.  ISBN-10: 1888691174.
+Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones. San Diego: California Sea Grant College Program, 2007. [ISBN-10: 1888691174](https://www.abebooks.com/9781888691177/San-Diego-Bay-Story-Exploitation-1888691174/plp).
