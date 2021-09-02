@@ -57,7 +57,7 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 <br><br>
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
-<br>
+
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
@@ -74,7 +74,7 @@ Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 trans
 <br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
-<br>
+
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
