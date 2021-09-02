@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>
+***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
 
@@ -58,6 +58,7 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
 <br>
+***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
 
@@ -74,12 +75,14 @@ Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 trans
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
 <br>
+***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
 
-***
+
 ## <a name="gr"></a> Government reports ##
-Quantitative Evaluation of the Effects of Priority Measures for the Prevention of Spread of Infectious Diseases and Emergency Declarations on the Epidemic Dynamics of Novel Coronavirus Infections (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html)
+***
+Quantitative Evaluation of the Effects of Priority Measures for the Prevention of Spread of Infectious Diseases and Emergency Declarations on the Epidemic Dynamics of Novel Coronavirus Infections (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html) [In Japanese]
 <br>
 <br>
 Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health. Lead contributor; designer and editor. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
@@ -87,9 +90,9 @@ Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washi
 
 ## <a name="osw"></a> Other scientific writing ##
 ***
-<u>ナタリー・リントン</u>、西浦博、“2次感染パターンからわかる新型コロナウイルスの急所”、[実験医学増刊 2021年Vol.39 No.2](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html).
+<u>Linton NM</u>, Nishiura H. Key characteristics of COVID-19 as revealed by patterns of secondary infection. <i>Jikken Igaku</i>. [2021;39(2)](https://www.yodosha.co.jp/jikkenigaku/book/9784758103923/index.html). [In Japanese]
 <br><br>
-<u>ナタリー・リントン</u>、西浦博、“感染症流行の収束にまつわる数理”、[数学セミナー、2020年9月号](https://www.nippyo.co.jp/blogsusemi/2020/08/11/%e6%95%b0%e5%ad%a6%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc2020%e5%b9%b49%e5%8f%b7-%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/).
+<u>Linton NM</u>, Nishiura H. Mathematics behind the end of epidemics. <i>Suugaku Seminar</i>. [2020;9.](https://www.nippyo.co.jp/blogsusemi/2020/08/11/%e6%95%b0%e5%ad%a6%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc2020%e5%b9%b49%e5%8f%b7-%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/). [In Japanese]
 
 
 ## <a name="bc"></a> Book contributions ##
