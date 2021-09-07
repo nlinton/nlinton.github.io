@@ -37,7 +37,7 @@ redirect_from:
 
 ***
 ## Employment
-*Washington State Department of Health*
+*Washington State Department of Health*<br>
 Office of Communicable Disease Epidemiology
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
@@ -71,11 +71,15 @@ Office of Communicable Disease Epidemiology
 <tbody>
 <tr>
 <td markdown="span">2020</td>
-<td markdown="span">COVID-19 Cluster Response Team, Ministry of Health, Labour and Welfare, Tokyo, Japan</td>
+<td markdown="span">COVID-19 Cluster Response Team, [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/index.html), Tokyo, Japan</td>
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
 <td markdown="span">Independent Contractor (remote), Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
+</tr>
+<tr>
+<td markdown="span">2014-2015</td>
+<td markdown="span">Visiting researcher, [International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)](https://www.icddrb.org/), Dhaka, Bangladesh</td>
 </tr>
 <tr>
 <td markdown="span">2013-2014</td>
