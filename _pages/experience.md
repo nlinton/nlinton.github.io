@@ -71,23 +71,28 @@ Office of Communicable Disease Epidemiology
 <tbody>
 <tr>
 <td markdown="span">2020</td>
-<td markdown="span">COVID-19 Cluster Response Team, [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/index.html), Tokyo, Japan</td>
+<td markdown="span">COVID-19 Cluster Response Team<br>
+[Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/index.html), Tokyo, Japan</td>
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
-<td markdown="span">Independent Contractor (remote), Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
+<td markdown="span">Independent Contractor (remote)<br>
+Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
 </tr>
 <tr>
 <td markdown="span">2014-2015</td>
-<td markdown="span">Visiting researcher, [International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)](https://www.icddrb.org/), Dhaka, Bangladesh</td>
+<td markdown="span">Visiting researcher<br>
+[International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)](https://www.icddrb.org/), Dhaka, Bangladesh</td>
 </tr>
 <tr>
 <td markdown="span">2013-2014</td>
-<td markdown="span">Research Assistant with Dr. Katie Conte, Oregon State University</td>
+<td markdown="span">Research Assistant with Dr. Katie Conte<br>
+Oregon State University, Corvallis, Oregon, USA</td>
 </tr>
 <tr>
 <td markdown="span">2014</td>
-<td markdown="span">Graduate Student Epidemiology Fellow at Oregon Health and Sciences University, Health Resources and Services Administration</td>
+<td markdown="span">[Graduate Student Epidemiology Fellow](http://www.amchp.org/programsandtopics/WorkforceDevelopment/Pages/Graduate-Student-Epidemiology-Program-(GSEP).aspx) at Oregon Health and Sciences University<br>
+Association of Maternal & Child Health Programs</td>
 </tr>
 <tr>
 <td markdown="span">2014</td>
