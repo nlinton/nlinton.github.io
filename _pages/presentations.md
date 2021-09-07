@@ -8,14 +8,17 @@ author_profile: true
 
 ## Conference presentations ##
 **2021**<br>
-"Variation in the serial interval distribution among reported cases in Japan." [Society for Mathematical Biology 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
+"Variation in the serial interval distribution among reported cases in Japan."<br>
+[Society for Mathematical Biology 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
 <br><br>
-"First and second wave serial interval of COVID-19 in Japan." [The 91st Annual Meeting of the Japanese Society for Hygiene](https://pcojapan.jp/jsh91/). March 8, 2021. Oral presentation.
+"First and second wave serial interval of COVID-19 in Japan."<br>
+[The 91st Annual Meeting of the Japanese Society for Hygiene](https://pcojapan.jp/jsh91/). March 8, 2021. Oral presentation.
 <br><br>
 "Localized end-of-outbreak determination for COVID-19: Examples from clusters in Japan." [The 31st Annual Scientific Meeting of the Japanese Epidemiological Association](https://jea31.com/). January 28, 2021. Oral presentation.
 <br><br>
 **2020**<br>
-"Localized end-of-outbreak determination for COVID-19: Examples from clusters in Japan." [COVID-19 Dynamics & Evolution Virtual Conference Series](https://cpd.ucsd.edu/covid19/101920.html). October 19, 2020. Oral presentation.
+"Localized end-of-outbreak determination for COVID-19: Examples from clusters in Japan."<br>
+[COVID-19 Dynamics & Evolution Virtual Conference Series](https://cpd.ucsd.edu/covid19/101920.html). October 19, 2020. Oral presentation.
 <br><br>
 "Reconstructing the transmission network of African swine fever in the People’s Republic of China, August 2018–September 2019." The 90th Annual Meeting of the Japanese Society for Hygiene. *\*cancelled due to pandemic*
 <br><br>
