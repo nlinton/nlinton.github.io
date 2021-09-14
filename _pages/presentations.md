@@ -8,6 +8,9 @@ author_profile: true
 
 ## Conference presentations ##
 **2021**<br>
+"Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic games."<br>
+[Japan Society for Mathematical Biology Conference 2021](https://sites.google.com/view/jsmb2021conference/). September 14, 2021. Poster presentation.
+<br><br>
 "Variation in the serial interval distribution among reported cases in Japan."<br>
 [Society for Mathematical Biology 2021](http://schedule.smb2021.org/). June 16, 2021. Oral presentation.
 <br><br>

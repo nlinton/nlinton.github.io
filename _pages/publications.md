@@ -57,7 +57,7 @@ Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd
 <br><br>
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 
-
+<br>
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
@@ -74,7 +74,7 @@ Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 trans
 <br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
 
-
+<br>
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
@@ -82,10 +82,10 @@ Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H.
 
 ## <a name="gr"></a> Government reports ##
 ***
-Quantitative Evaluation of the Effects of Priority Measures for the Prevention of Spread of Infectious Diseases and Emergency Declarations on the Epidemic Dynamics of Novel Coronavirus Infections (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html) [In Japanese]
+Quantitative evaluation of the effects of priority measures for the prevention of spread of infectious diseases and emergency declarations on the epidemic dynamics of COVID-19 (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html) [In Japanese]
 <br>
 <br>
-Epidemiologic Profile of Viral Hepatitis C in Washington State. June 2016. Washington State Department of Health. Lead contributor; designer and editor. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
+Epidemiologic profile of viral hepatitis C in Washington State. June 2016. Washington State Department of Health. Lead contributor; designer and editor. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).
 
 
 ## <a name="osw"></a> Other scientific writing ##
