@@ -56,8 +56,8 @@ Conte KP, Odden MC, <u>Linton NM</u>, Harvey MS. Effectiveness of a scaled-up ar
 Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd J, Inouye W, Gonzales E, Rietberg K, Melius B, Wise ME, Sinatra J, Marsland P, Li Zhen, Meek R, Kay M, Duchin J, Lindquist S. Outbreak of multidrug-resistant Salmonella infections linked to pork—Washington, 2015. <i>MMWR</i>. 2016;65(14);379–381. [doi:10.15585/mmwr.mm6514a4](https://www.cdc.gov/mmwr/volumes/65/wr/mm6514a4.htm)
 <br><br>
 Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
-
 <br>
+
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
@@ -73,8 +73,8 @@ Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmi
 Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
-
 <br>
+
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
