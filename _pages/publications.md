@@ -98,6 +98,6 @@ Epidemiologic profile of viral hepatitis C in Washington State. June 2016. Washi
 
 ## <a name="bc"></a> Book contributions ##
 ***
-Hiroshi Nishiura. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2020. Chapter co-author. [‎ISBN-13: 978-4765318822](https://www.amazon.co.jp/-/en/%E8%A5%BF%E6%B5%A6-%E5%8D%9A/dp/4765318826/)
+Hiroshi Nishiura. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2020. Chapter co-author. [‎ISBN-13: 978-4765318822](https://www.amazon.co.jp/-/en/%E8%A5%BF%E6%B5%A6-%E5%8D%9A/dp/4765318826/). [In Japanese]
 <br><br>
 Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones. San Diego: California Sea Grant College Program, 2007. [ISBN-10: 1888691174](https://www.abebooks.com/9781888691177/San-Diego-Bay-Story-Exploitation-1888691174/plp).

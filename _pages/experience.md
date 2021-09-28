@@ -77,7 +77,7 @@ Office of Communicable Disease Epidemiology
 <tr>
 <td markdown="span">2015-2016</td>
 <td markdown="span">Independent contractor (remote)<br>
-Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
+[Veterans Education and Research Association of Northern New England, Inc. (VERANNE)](https://www.veranne.org/)</td>
 </tr>
 <tr>
 <td markdown="span">2014-2015</td>
