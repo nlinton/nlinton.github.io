@@ -76,7 +76,7 @@ Office of Communicable Disease Epidemiology
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
-<td markdown="span">Independent Contractor (remote)<br>
+<td markdown="span">Independent contractor (remote)<br>
 Veterans Education and Research Association of Northern New England, Inc. (VERANNE)</td>
 </tr>
 <tr>
@@ -160,6 +160,26 @@ Association of Maternal & Child Health Programs</td>
 <td markdown="span">Reading</td>
 <td markdown="span">French, German</td>
 </tr>
+<tr>
+<td markdown="span">Basic</td>
+<td markdown="span">Bangla/Bengali</td>
+</tr>
+</tbody>
+</table>
+
+***
+## Scientific service
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2020-present</td>
+<td markdown="span">Reviewer, various epidemiology and medical journals</td>
+</tr>
+<tr>
+<td markdown="span">2012-2013</td>
+<td markdown="span">Curriculum Committee member, School of Public Health, Oregon State University</td>
+</tr>
 </tbody>
 </table>
 
@@ -183,6 +203,10 @@ Association of Maternal & Child Health Programs</td>
 <tr>
 <td markdown="span">2012-2013</td>
 <td markdown="span">Volunteer, American Red Cross, La Grande, OR</td>
+</tr>
+<tr>
+<td markdown="span">2012-2013</td>
+<td markdown="span">Volunteer, Eastern Oregon Search and Rescue, La Grande, OR</td>
 </tr>
 <tr>
 <td markdown="span">2010-2011</td>
