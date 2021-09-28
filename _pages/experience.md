@@ -86,7 +86,7 @@ Office of Communicable Disease Epidemiology
 </tr>
 <tr>
 <td markdown="span">2013-2014</td>
-<td markdown="span">Research Assistant with Dr. Katie Conte<br>
+<td markdown="span">Research Assistant with [Dr. Katie Conte](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/kathleen-conte.html)<br>
 Oregon State University, Corvallis, Oregon, USA</td>
 </tr>
 <tr>
@@ -96,7 +96,8 @@ Association of Maternal & Child Health Programs</td>
 </tr>
 <tr>
 <td markdown="span">2014</td>
-<td markdown="span">Graduate Research Assistant with Dr. Jeff Bethel, Oregon State University</td>
+<td markdown="span">Graduate Research Assistant with [Dr. Jeff Bethel](https://health.oregonstate.edu/people/jeffrey-bethel)<br>
+Oregon State University, Corvallis, Oregon, USA</td>
 </tr>
 </tbody>
 </table>

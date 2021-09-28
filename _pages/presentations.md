@@ -45,10 +45,10 @@ June 11, 2019. Poster presentation. *\*received an award*
 AZID. July 19, 2017. Oral presentation.
 <br><br>
 **2016**<br>
-"Hepatitis C."<br>
-Washington State Public Health Association (WSPHA) Joint Conference on Health. October 5, 2016. Panel member.
-<br><br>
 "Reporting of pregnancy in refugee women infected with hepatitis B for case management, Washington State 2006–2015."<br>
+Washington State Public Health Association Joint Conference on Health. October 5, 2016. Oral presentation.
+<br><br>
+"Hepatitis in Washington State—From Babies to Baby Boomers. Washington State Public Health Association Annual Conference."<br>
 Washington State Public Health Association Joint Conference on Health. October 5, 2016. Oral presentation.
 <br><br>
 "Outbreak of multidrug-resistant *Salmonella I 4,[5],12:i:-* infections linked to pork in Washington State, 2015."<br>
