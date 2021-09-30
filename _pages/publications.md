@@ -43,7 +43,7 @@ Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahas
 <br><br>
 Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
-Hitoshi Oshitani, <u>The Expert Members of The National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
+Oshitani H, <u>The Expert Members of The National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
 <br><br>
 
 **2017**<br>
