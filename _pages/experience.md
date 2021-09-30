@@ -218,6 +218,10 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <td markdown="span">Intern, Freer and Sackler Galleries, Washington, DC</td>
 </tr>
 <tr>
+<td markdown="span">2008-2009</td>
+<td markdown="span">Public Safety Aid/Field Trainer, Department of Public Safety, American University, Washington, DC</td>
+</tr>
+<tr>
 <td markdown="span">2006-2008</td>
 <td markdown="span">Hydrologic Technician, United States Geological Survey, San Diego, CA</td>
 </tr>
