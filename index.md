@@ -8,6 +8,7 @@ Before starting my PhD, I worked at local and state health departments in the Un
 
 This website serves as an online repository for my professional work.
 
+<!---
 ***
 
 **Selected publications**
@@ -29,3 +30,4 @@ Anzai A, Kobayashi T, Linton NM, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung 
 <br><br>
 [Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016.](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)<br>
 Linton NM, DeBolt C, Newman LP, Tasslimi A, Matheson J. | *Journal of Immigrant and Minority Health*
+--->
