@@ -31,7 +31,9 @@ Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavi
 <br><br>
 Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(601). [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
 <br><br>
-Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Baoyin Y, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
+Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Yuan B, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
+<br><br>
+Jung S-m, Akhmetzhanov AR, Hayashi K, <u>Linton NM</u>, Yang Y, Yuan B, Kobayashi T, Kinoshita R, Nishiura H. Real-time estimation of the risk of death from novel coronavirus (COVID-19) infection: Inference using exported cases. <i>J Clin Med</i>. 2020;9(2):523. [doi: 10.3390/jcm9020523](https://www.mdpi.com/2077-0383/9/2/523)
 <br><br>
 Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i> 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
 <br><br>
