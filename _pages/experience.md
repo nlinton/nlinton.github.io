@@ -14,7 +14,8 @@ redirect_from:
 <tbody>
 <tr>
 <td markdown="span">(2021)</td>
-<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University (expected)</td>
+<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University (expected)<br>
+Advisor: Hiroshi Nishiura</td>
 </tr>
 <tr>
 <td markdown="span">2018</td>
@@ -199,7 +200,7 @@ Oregon State University, Corvallis, Oregon, USA</td>
 </tr>
 <tr>
 <td markdown="span">2017</td>
-<td markdown="span">Summit Ambassador, Summit at Snoqualmie, Seattle, WA</td>
+<td markdown="span">Summit Ambassador, Summit at Snoqualmie, Snoqualmie Pass, WA</td>
 </tr>
 <tr>
 <td markdown="span">2012-2013</td>
