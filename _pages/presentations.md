@@ -8,6 +8,9 @@ author_profile: true
 
 ## Conference presentations ##
 **2021**<br>
+"Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts."<br>
+[5th Workshop on Viral Dynamics](https://www.fredhutch.org/en/events/workshop-on-virus-dynamics.html). October 4-5, 2021. Poster presentation.
+<br><br>
 "Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic games."<br>
 [Japan Society for Mathematical Biology Conference 2021](https://sites.google.com/view/jsmb2021conference/). September 14, 2021. Poster presentation.
 <br><br>
