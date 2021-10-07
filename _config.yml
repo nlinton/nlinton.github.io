@@ -62,9 +62,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-43VS9PD9XK
+    measurement_id       : G-43VS9PD9XK
 
 
 # Site Author

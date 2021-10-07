@@ -35,9 +35,9 @@ Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayash
 <br><br>
 Jung S-m, Akhmetzhanov AR, Hayashi K, <u>Linton NM</u>, Yang Y, Yuan B, Kobayashi T, Kinoshita R, Nishiura H. Real-time estimation of the risk of death from novel coronavirus (COVID-19) infection: Inference using exported cases. <i>J Clin Med</i>. 2020;9(2):523. [doi: 10.3390/jcm9020523](https://www.mdpi.com/2077-0383/9/2/523)
 <br><br>
-Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i> 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
-<br><br>
 Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
+<br><br>
+Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i> 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
 <br><br>
 Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
