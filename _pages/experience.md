@@ -179,7 +179,7 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <td markdown="span">Reviewer, various epidemiology and medical journals</td>
 </tr>
 <tr>
-<td markdown="span">2012-2013</td>
+<td markdown="span">2014-2015</td>
 <td markdown="span">Curriculum Committee member, School of Public Health, Oregon State University</td>
 </tr>
 </tbody>

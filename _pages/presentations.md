@@ -38,7 +38,7 @@ The 90th Annual Meeting of the Japanese Society for Hygiene. *\*cancelled due to
 [The 89th Annual Meeting of the Japanese Society for Hygiene](http://www.nihon-eisei.org/annualmeeting/89/). Oral presentation.
 <br><br>
 "Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017."<br>
-June 11, 2019. Poster presentation. *\*received an award*
+INFECTION 2019. June 11, 2019. Poster presentation. *\*received an award*
 <br><br>
 **2017**<br>
 "Tdap vaccination status among teenage mothers in Washington State, 2005-2015."<br>
