@@ -75,6 +75,8 @@ Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chr
 <br><br>
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
+Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. Under review.
+<br><br>
 **2020**<br>
 Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br><br>
