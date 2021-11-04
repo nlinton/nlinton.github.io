@@ -12,6 +12,8 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2021**<br>
+<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Mathematical Biosciences and Engineering</i>. In press.
+<br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
 Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
@@ -68,8 +70,6 @@ Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chr
 ***
 **2021**<br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. Under review. <i>medRxiv</i>. 2021. [doi:10.1101/2021.08.29.21262512](https://www.medrxiv.org/content/10.1101/2021.08.29.21262512v1)
-<br><br>
-<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. Under review.
 <br><br>
 <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. Under review.
 <br><br>

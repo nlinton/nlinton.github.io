@@ -27,16 +27,40 @@ getAreasFromMap : true,
 areas :
 [
 	{
-		"id": "FI",
+		"id": "DE", <!-- Germany -->
 		"showAsSelected": true
 	}
   {
-  	"id": "IE",
+		"id": "Dk", <!-- Denmark -->
+		"showAsSelected": true
+	}
+  {
+		"id": "FI", <!-- Finland -->
+		"showAsSelected": true
+	}
+  {
+		"id": "FR", <!-- France -->
+		"showAsSelected": true
+	}
+  {
+    "id": "GR", <!-- Greece -->
+    "showAsSelected": true
+  }
+  {
+  	"id": "IE", <!-- Ireland -->
   	"showAsSelected": true
   }
   {
-  	"id": "IS",
+  	"id": "IS", <!-- Iceland -->
   	"showAsSelected": true
+  }
+  {
+    "id": "IT", <!-- Italy -->
+    "showAsSelected": true
+  }
+  {
+    "id": "JA", <!-- Japan -->
+    "showAsSelected": true
   }
 ]
 },
