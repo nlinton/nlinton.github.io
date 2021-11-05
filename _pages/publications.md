@@ -12,7 +12,7 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2021**<br>
-<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Mathematical Biosciences and Engineering</i>. In press.
+<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. In press.
 <br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
@@ -31,7 +31,9 @@ Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavi
 <br><br>
 Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
 <br><br>
-Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(601). [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
+Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(2):601. [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
+<br><br>
+Kobayashi T, Jung S-m, <u>Linton NM</u>, Kinoshita R, Hayashi K, Miyama T, Anzai A, Yang Y, Yuan B, Akhmetzhanov AR, Suzuki A, Nishiura H. Communicating the Risk of Death from Novel Coronavirus Disease (COVID-19). <i>J Clin Med</i>. 2020;9(2):580. [doi:10.3390/jcm9020580](https://www.mdpi.com/2077-0383/9/2/580)
 <br><br>
 Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Yuan B, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
 <br><br>
@@ -39,7 +41,7 @@ Jung S-m, Akhmetzhanov AR, Hayashi K, <u>Linton NM</u>, Yang Y, Yuan B, Kobayash
 <br><br>
 Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
 <br><br>
-Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i> 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
+Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i>. 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
 <br><br>
 Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
@@ -47,7 +49,7 @@ Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahas
 <br><br>
 Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
-Oshitani H, <u>The Expert Members of The National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
+Oshitani H, <u>The Expert Members of the National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
 <br><br>
 
 **2017**<br>
@@ -104,6 +106,6 @@ Epidemiologic profile of viral hepatitis C in Washington State. June 2016. Washi
 
 ## <a name="bc"></a> Book contributions ##
 ***
-Hiroshi Nishiura. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2021. Chapter co-author. [‎ISBN-13: 978-4765318822](https://www.amazon.co.jp/-/en/%E8%A5%BF%E6%B5%A6-%E5%8D%9A/dp/4765318826/). [In Japanese]
+Hiroshi Nishiura. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2021. Co-author for chapters 2 and 11. [‎ISBN-13: 978-4765318822](https://www.amazon.co.jp/-/en/%E8%A5%BF%E6%B5%A6-%E5%8D%9A/dp/4765318826/). [In Japanese]
 <br><br>
 Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones. San Diego: California Sea Grant College Program, 2007. [ISBN-10: 1888691174](https://www.abebooks.com/9781888691177/San-Diego-Bay-Story-Exploitation-1888691174/plp).
