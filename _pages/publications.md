@@ -12,7 +12,7 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2021**<br>
-<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. In press.
+<u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
 <br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
