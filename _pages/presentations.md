@@ -32,7 +32,7 @@ The 90th Annual Meeting of the Japanese Society for Hygiene. *\*cancelled due to
 <br><br>
 **2019**<br>
 "Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017."<br>
-[Epidemics^7](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics/about/previous-epidemics-conferences). December 3-6, 2019. <a href=""/files/presentations/Linton_2021-12_Epidemics7.pdf">Poster presentation</a>.
+[Epidemics^7](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics/about/previous-epidemics-conferences). December 3-6, 2019. <a href="/files/presentations/Linton_2021-12_Epidemics7.pdf">Poster presentation</a>.
 <br><br>
 "Estimation of the effective reproduction number of a measles outbreak in Guinea, 2017."<br>
 [The 89th Annual Meeting of the Japanese Society for Hygiene](http://www.nihon-eisei.org/annualmeeting/89/). Oral presentation.
