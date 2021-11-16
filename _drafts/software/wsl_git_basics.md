@@ -10,7 +10,3 @@ Basic flow for committing:
 
 Putting your R package on github:
 https://kbroman.org/pkg_primer/pages/github.html
-
-
-Token until Feb 9 2022
-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
