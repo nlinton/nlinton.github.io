@@ -1,7 +1,8 @@
+## Basic R
 OS: windows 10 Pro Version 1909 (OS build 18363.1256)
 WSL2: ubuntu 20.04
 
-r-base on Ubuntu for windows installs R 3.6.3 (as of 2020-02-09)
+Installing R using r-base on WSL seems to install a version other than the latest version.
 
 R information for installing on Ubuntu is available here:
 https://cran.r-project.org/bin/linux/ubuntu/fullREADME.html
@@ -30,3 +31,13 @@ Run R as sudo to start as root
 ```
 sudo -i R
 ```
+
+---
+## What about Rstudio server?
+
+OS: windows 10 Pro Version 20H (OS build 19042.1288)
+WSL2: Ubuntu 20.04
+
+For RStudio in session - type `quit("yes")` and it will end the session and pop up a button asking if you want a new session.
+
+Once it is started you navigate to http://localhost:8787/

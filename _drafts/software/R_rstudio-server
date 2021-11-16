@@ -1,4 +1,0 @@
-OS: windows 10 Pro Version 20H (OS build 19042.1288)
-WSL2: Ubuntu 20.04
-
-For RStudio in session - type `quit("yes")` and it will end the session and pop up a button asking if you want a new session.
