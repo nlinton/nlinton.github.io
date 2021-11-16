@@ -39,4 +39,4 @@ Putting your R package on github:
 https://kbroman.org/pkg_primer/pages/github.html
 
 Install `gitsome` for `gh` commands
-`sudo apt install gitsome` 
+`sudo apt install gitsome`
