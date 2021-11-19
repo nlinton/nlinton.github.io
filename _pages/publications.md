@@ -92,6 +92,8 @@ Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H.
 
 ## <a name="gr"></a> Government reports ##
 ***
+Estimating the effectiveness of the COVID-19 vaccine BNT162b2 (Pfizer/BioNTech) by applying a mathematical model to surveillance data (Version 1). September 2021. Collaborator. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/2019-ncov/2484-idsc/10618-covid19-56.html) [In Japanese]
+<br><br>
 Quantitative evaluation of the effects of priority measures for the prevention of spread of infectious diseases and emergency declarations on the epidemic dynamics of COVID-19 (Provisional Version). June 2021. Contributing author. [National Institute of Infectious Diseases (NIID), Japan](https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/2484-idsc/10437-covid19-47.html) [In Japanese]
 <br><br>
 Epidemiologic profile of viral hepatitis C in Washington State. June 2016. Washington State Department of Health. Lead contributor; designer and editor. [DOH 420-159](https://www.doh.wa.gov/Portals/1/Documents/Pubs/420-159-HCVEpiProfile.pdf).

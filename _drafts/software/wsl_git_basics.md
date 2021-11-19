@@ -30,9 +30,8 @@ Pull with -v to verify: `$ git pull -v`
 
 
 Basic flow for committing:
-1. `git add .`
-2. `git commit -m 'some message'`
-3. `git push -u origin master`
+1. `git commit -a -m 'some message'`
+2. `git push -u origin master`
 
 
 Putting your R package on github:
