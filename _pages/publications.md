@@ -16,6 +16,8 @@ author_profile: true
 <br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
+Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2021. In press. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
+<br><br>
 Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
 <br><br>
 

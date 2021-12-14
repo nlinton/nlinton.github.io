@@ -72,7 +72,21 @@ Washington Zoonotic and Vectorborne-Disease Workshop. June 21, 2016. Oral presen
 <br><br>
 **2014**<br>
 "Grand Ronde Walks With Ease: a tribal-university partnership to offer a walking program for elders with arthritis."<br>
-Contemporary Northwest Tribal Health Conference. March 2014. Oral presentation.
+Contemporary Northwest Tribal Health Conference. March 2014, USA. Oral presentation.
+<br><br>
+"Who completes Walk With Ease classes in Oregon?"<br>
+Oregon Public Health Association Annual Conference. Corvallis, OR, USA. October 2014. Poster presentation.
+<br><br>
+"Leishmaniasis outbreak investigations worldwide, 2000-2014."<br>
+Oregon State University Inaugural Global Health Center Symposium. Corvallis, OR, USA. June 2014. Poster presentation.
+<br><br>
+**2013**<br>
+"Impact of regulatory changes on chlamydia testing and trends in Union County, Oregon."<br>
+Oregon Public Health Association Annual Conference. Corvallis, OR, USA. October 2013. Poster presentation.
+<br><br>
+"Living Well with Chronic Conditions: program implementation in northeast Oregon."
+Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
+<br>
 
 
 

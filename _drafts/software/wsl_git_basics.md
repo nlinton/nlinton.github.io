@@ -31,7 +31,7 @@ Pull with -v to verify: `$ git pull -v`
 
 Basic flow for committing:
 1. `git commit -a -m 'some message'`
-2. `git push -u origin master`
+2. `git push -u origin main`
 
 
 Putting your R package on github:
@@ -39,3 +39,8 @@ https://kbroman.org/pkg_primer/pages/github.html
 
 Install `gitsome` for `gh` commands
 `sudo apt install gitsome`
+
+---
+
+Remove git lock file:
+In main respository folder run `rm -f .git/index.lock`

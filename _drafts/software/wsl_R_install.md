@@ -9,13 +9,13 @@ https://cran.r-project.org/bin/linux/ubuntu/fullREADME.html
 
 At the link above, under Secure Apt are options for how to add the key. The Mischan Toosarani approach worked for me
 
+First, add relevant GPG key
 ```
 gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
 gpg -a --export E298A3A825C0D65DFD57CBB651716619E084DAB9 | sudo apt-key add -
 ```
 
-Add relevant GPG key
-
+Then, add repository, checking which distribution to use with `lsb_release -a` if unknown.
 ```
 sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
 ```
@@ -40,4 +40,8 @@ WSL2: Ubuntu 20.04
 
 For RStudio in session - type `quit("yes")` and it will end the session and pop up a button asking if you want a new session.
 
+`sudo rstudio-server start` and enter password for WSL.
+
 Once it is started you navigate to http://localhost:8787/
+
+Username and password are same as for WSL.
