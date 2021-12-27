@@ -8,12 +8,42 @@ redirect_from:
 ---
 
 ***
+## Employment
+*Washington State Department of Health*<br>
+Office of Communicable Disease Epidemiology
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2016-2017</td>
+<td markdown="span">Vaccine-Preventable Disease Epidemiologist</td>
+</tr>
+<tr>
+<td markdown="span">2015-2016</td>
+<td markdown="span">[CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/)</td>
+</tr>
+</tbody>
+</table>
+<br>
+*Centers for Disease Control and Prevention (CDC)*
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2011-2013</td>
+<td markdown="span">[Public Health Associate](https://www.cdc.gov/phap/about/index.html)</td>
+</tr>
+</tbody>
+</table>
+
+
+***
 ## Education
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
 <tr>
-<td markdown="span">(2021)</td>
+<td markdown="span">2021</td>
 <td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University (expected)<br>
 Advisor: Hiroshi Nishiura</td>
 </tr>
@@ -32,35 +62,6 @@ Advisor: Hiroshi Nishiura</td>
 <tr>
 <td markdown="span">2010</td>
 <td markdown="span">Bachelor of Arts (BA), International Studies, American University</td>
-</tr>
-</tbody>
-</table>
-
-***
-## Employment
-*Washington State Department of Health*<br>
-Office of Communicable Disease Epidemiology
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2016-2017</td>
-<td markdown="span">Epidemiologist 2</td>
-</tr>
-<tr>
-<td markdown="span">2015-2016</td>
-<td markdown="span">[CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/)</td>
-</tr>
-</tbody>
-</table>
-<br>
-*Centers for Disease Control and Prevention (CDC)*
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2011-2013</td>
-<td markdown="span">[Public Health Associate](https://www.cdc.gov/phap/about/index.html)</td>
 </tr>
 </tbody>
 </table>

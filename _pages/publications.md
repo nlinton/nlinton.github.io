@@ -35,7 +35,7 @@ Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavi
 <br><br>
 Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(2):601. [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
 <br><br>
-Kobayashi T, Jung S-m, <u>Linton NM</u>, Kinoshita R, Hayashi K, Miyama T, Anzai A, Yang Y, Yuan B, Akhmetzhanov AR, Suzuki A, Nishiura H. Communicating the Risk of Death from Novel Coronavirus Disease (COVID-19). <i>J Clin Med</i>. 2020;9(2):580. [doi:10.3390/jcm9020580](https://www.mdpi.com/2077-0383/9/2/580)
+Kobayashi T, Jung S-m, <u>Linton NM</u>, Kinoshita R, Hayashi K, Miyama T, Anzai A, Yang Y, Yuan B, Akhmetzhanov AR, Suzuki A, Nishiura H. Communicating the risk of death from novel coronavirus disease (COVID-19). <i>J Clin Med</i>. 2020;9(2):580. [doi:10.3390/jcm9020580](https://www.mdpi.com/2077-0383/9/2/580)
 <br><br>
 Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Yuan B, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
 <br><br>
