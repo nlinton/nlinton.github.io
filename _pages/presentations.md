@@ -9,6 +9,9 @@ author_profile: true
 ## Conference presentations ##
 **2021**<br>
 "Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts."<br>
+[Epidemics8](). December 1, 2021. Oral presentation.
+<br><br>
+"Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts."<br>
 [5th Workshop on Viral Dynamics](https://www.fredhutch.org/en/events/workshop-on-virus-dynamics.html). October 4-5, 2021. Poster presentation.
 <br><br>
 "Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic games."<br>
