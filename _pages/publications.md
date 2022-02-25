@@ -12,7 +12,9 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2022**<br>
-<u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurius</i>. Accepted.
+<u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. Accepted.
+<br><br>
+Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
 Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. <i>Math Biosci Eng</i>. 2022;19(2) 2043-2055. [doi:10.3934/mbe.2022096](https://www.aimspress.com/article/id/61c99531ba35de32ad6e8466)
 <br><br>
@@ -20,8 +22,6 @@ Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</
 <u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
 <br><br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
-<br><br>
-Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2021. In press. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
 Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
 <br><br>
