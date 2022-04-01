@@ -141,6 +141,26 @@ Oregon State University, Corvallis, Oregon, USA</td>
 </table>
 
 ***
+## Awards
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">Ohtsuka Award</td>
+</tr>
+<tr>
+<td markdown="span">2019</td>
+<td markdown="span">Best poster presentation, Infection 2019</td>
+</tr>
+<tr>
+<td markdown="span">2012</td>
+<td markdown="span">All there is is us and us</td>
+</tr>
+</tbody>
+</table>
+
+***
 ## Languages
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
