@@ -12,7 +12,11 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2022**<br>
-<u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. Accepted.
+Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerging Infectious Diseases</i>. Accepted.
+<br><br>
+Hayashi K, Kayano T, Anzai A, Fujimoto M, <u>Linton NM</u>, Sasanami M, Suzuki A, Kobayashi T, Otani K, Yamauchi M, Suzuki M, Nishiura H. Assessing public health and social measures against COVID-19 in Japan from March to June 2021. <i>Frontiers in Medicine</i>. 2022; 9:937732. [doi:10.3389/fmed.2022.937732](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9315273/)
+<br><br>
+<u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;l64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
 <br><br>
 Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
