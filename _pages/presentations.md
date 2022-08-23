@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Conference presentations ##
+**2022**<br>
+"COVID-19 case rates by vaccination status and waning immunity among children and adolescents ages 5-17 in California."<br>
+[ICEID 2022](https://www.iceid.org/). August 8, 2022. Oral presentation (late-breaker).
+<br><br>
 **2021**<br>
 "Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts."<br>
 [Epidemics8](). December 1, 2021. Oral presentation.
