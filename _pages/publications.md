@@ -81,7 +81,7 @@ author_profile: true
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
 <br>
 
-## <a name="pp"></a> Preprints##
+## <a name="pp"></a> Preprints ##
 ***
 **2021**<br>
 <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. Under review. <i>medRxiv</i>. 2021. [doi:10.1101/2021.08.29.21262512](https://www.medrxiv.org/content/10.1101/2021.08.29.21262512v1)
