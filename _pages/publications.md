@@ -14,7 +14,7 @@ author_profile: true
 **2022**<br>
 0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerging Infectious Diseases</i>. Accepted.
 <br><br>
-0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;l64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
+0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
 <br><br>
 0. Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
