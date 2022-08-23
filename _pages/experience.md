@@ -9,6 +9,17 @@ redirect_from:
 
 ***
 ## Employment
+*California Department of Public Health*<br>
+<table cellspacing="0" cellpadding="0">
+<colgroup><col width="15%" /><col width="85%" /></colgroup>
+<tbody>
+<tr>
+<td markdown="span">2022-Present</td>
+<td markdown="span">Epidemiologist/Statistician Modeler</td>
+</tr>
+</tbody>
+</table>
+<br>
 *Washington State Department of Health*<br>
 Office of Communicable Disease Epidemiology
 <table cellspacing="0" cellpadding="0">
@@ -16,7 +27,7 @@ Office of Communicable Disease Epidemiology
 <tbody>
 <tr>
 <td markdown="span">2016-2017</td>
-<td markdown="span">Vaccine-Preventable Disease Epidemiologist</td>
+<td markdown="span">Infectious Disease Surveillance Epidemiologist</td>
 </tr>
 <tr>
 <td markdown="span">2015-2016</td>
