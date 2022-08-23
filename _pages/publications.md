@@ -12,69 +12,70 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2022**<br>
-27. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerging Infectious Diseases</i>. Accepted.
+0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerging Infectious Diseases</i>. Accepted.
 <br><br>
-26. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;l64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
+0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;l64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
 <br><br>
-25. Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
+0. Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
-24. Hayashi K, Kayano T, Anzai A, Fujimoto M, <u>Linton NM</u>, Sasanami M, Suzuki A, Kobayashi T, Otani K, Yamauchi M, Suzuki M, Nishiura H. Assessing public health and social measures against COVID-19 in Japan from March to June 2021. <i>Frontiers in Medicine</i>. 2022; 9:937732. [doi:10.3389/fmed.2022.937732](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9315273/)
+0. Hayashi K, Kayano T, Anzai A, Fujimoto M, <u>Linton NM</u>, Sasanami M, Suzuki A, Kobayashi T, Otani K, Yamauchi M, Suzuki M, Nishiura H. Assessing public health and social measures against COVID-19 in Japan from March to June 2021. <i>Frontiers in Medicine</i>. 2022; 9:937732. [doi:10.3389/fmed.2022.937732](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9315273/)
 <br><br>
-23. Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. <i>Math Biosci Eng</i>. 2022;19(2) 2043-2055. [doi:10.3934/mbe.2022096](https://www.aimspress.com/article/id/61c99531ba35de32ad6e8466)
+0. Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. <i>Math Biosci Eng</i>. 2022;19(2) 2043-2055. [doi:10.3934/mbe.2022096](https://www.aimspress.com/article/id/61c99531ba35de32ad6e8466)
 <br><br>
 
     **2021**<br>
-22. <u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
+0. <u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
 <br><br>
-21. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
+0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
 <br><br>
-20. Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
+0. Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
 <br><br>
 
     **2020**<br>
-19. <u>Linton NM</u>, Kobayashi T, Yang Y, Hayashi K, Akhmetzhanov AR, Jung S-m, Yuan B, Kinoshita R, Nishiura H. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
+0. <u>Linton NM</u>, Kobayashi T, Yang Y, Hayashi K, Akhmetzhanov AR, Jung S-m, Yuan B, Kinoshita R, Nishiura H. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
-18. <u>Linton NM</u>, Keita M, Moitinho de Almeida M, Gil-Cuesta J, Guha-Sapir, D, Nishiura H, van Loenhout JAF. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
+0. <u>Linton NM</u>, Keita M, Moitinho de Almeida M, Gil-Cuesta J, Guha-Sapir, D, Nishiura H, van Loenhout JAF. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
 <br><br>
-17. <u>Linton NM</u>, DeBolt C, Newman LP, Tasslimi A, Matheson J. Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016. <i>J Immigr Minor Heal</i>. 2020;22:3-9. [doi:10.1007/s10903-019-00949-8](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)
+0. <u>Linton NM</u>, DeBolt C, Newman LP, Tasslimi A, Matheson J. Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016. <i>J Immigr Minor Heal</i>. 2020;22:3-9. [doi:10.1007/s10903-019-00949-8](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)
 <br><br>
-16. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
+0. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
 <!-- <a href="/files/pubs/Nishiura_2020_SI.pdf"><img src="/images/pdf_24x24.png"/></a> -->
 <br><br>
-15. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
+0. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
 <br><br>
-14. Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(2):601. [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
+0. Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(2):601. [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
 <br><br>
-13. Kobayashi T, Jung S-m, <u>Linton NM</u>, Kinoshita R, Hayashi K, Miyama T, Anzai A, Yang Y, Yuan B, Akhmetzhanov AR, Suzuki A, Nishiura H. Communicating the risk of death from novel coronavirus disease (COVID-19). <i>J Clin Med</i>. 2020;9(2):580. [doi:10.3390/jcm9020580](https://www.mdpi.com/2077-0383/9/2/580)
+0. Kobayashi T, Jung S-m, <u>Linton NM</u>, Kinoshita R, Hayashi K, Miyama T, Anzai A, Yang Y, Yuan B, Akhmetzhanov AR, Suzuki A, Nishiura H. Communicating the risk of death from novel coronavirus disease (COVID-19). <i>J Clin Med</i>. 2020;9(2):580. [doi:10.3390/jcm9020580](https://www.mdpi.com/2077-0383/9/2/580)
 <br><br>
-12. Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Yuan B, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
+0. Nishiura H, Jung S-m, <u>Linton NM</u>, Kinoshita R, Yang Y, Hayashi K, Kobayashi T, Yuan B, Akhmetzhanov AR. The extent of transmission of novel coronavirus in Wuhan, China, 2020. <i>J Clin Med</i>. 2020;9(2):330. [doi:10.3390/jcm9020330](https://www.mdpi.com/2077-0383/9/2/330)
 <br><br>
-11. Jung S-m, Akhmetzhanov AR, Hayashi K, <u>Linton NM</u>, Yang Y, Yuan B, Kobayashi T, Kinoshita R, Nishiura H. Real-time estimation of the risk of death from novel coronavirus (COVID-19) infection: Inference using exported cases. <i>J Clin Med</i>. 2020;9(2):523. [doi: 10.3390/jcm9020523](https://www.mdpi.com/2077-0383/9/2/523)
+0. Jung S-m, Akhmetzhanov AR, Hayashi K, <u>Linton NM</u>, Yang Y, Yuan B, Kobayashi T, Kinoshita R, Nishiura H. Real-time estimation of the risk of death from novel coronavirus (COVID-19) infection: Inference using exported cases. <i>J Clin Med</i>. 2020;9(2):523. [doi: 10.3390/jcm9020523](https://www.mdpi.com/2077-0383/9/2/523)
 <br><br>
-10. Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
+0. Kinoshita R, Anzai A, Jung S-m, <u>Linton NM</u>, Miyama T, Kobayashi T, Hayashi K, Suzuki A, Yang Y, Akhmetzhanov AR, Nishiura H. Containment, contact tracing and asymptomatic transmission of novel coronavirus disease (COVID-19): A modelling study. <i>J Clin Med</i>. 2020;9(10):3125. [doi:10.3390/jcm9103125](https://www.mdpi.com/2077-0383/9/10/3125)
 <br><br>
-9. Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i>. 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
+0. Jung S-m, Kinoshita R, Thompson R, <u>Linton NM</u>, Yang Y, Akhmetzhanov AR, Nishiura H. Epidemiological identification of a novel pathogen in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019–2020. <i>J Clin Med</i>. 2020;9(3):637. [doi: 10.3390/jcm9030637](https://www.mdpi.com/2077-0383/9/3/637)
 <br><br>
-8. Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
+0. Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, <u>Linton NM</u>, Jung S-m, Yuan B, Suzuki A, Akhmetzhanov AR. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. <i>J Clin Med</i>. 2020;9(2):419. [doi:10.3390/jcm9020419](https://www.mdpi.com/2077-0383/9/2/419)
 <br><br>
-7. Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 outbreak on cruise ship quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11):2591-2597. [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
+0. Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 outbreak on cruise ship quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11):2591-2597. [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
 <br><br>
-6. Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
+0. Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
-5. Oshitani H, <u>The Expert Members of the National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
+0. Oshitani H, <u>The Expert Members of the National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
 <br><br>
 
     **2017**<br>
-4. Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. <i>MMWR</i>. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
+0. Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. <i>MMWR</i>. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
 <br><br>
 
     **2016**<br>
-3. Conte KP, Odden MC, <u>Linton NM</u>, Harvey MS. Effectiveness of a scaled-up arthritis self-management program in Oregon: Walk with ease. <i>Am J Public Health</i>. 2016;106(12). [doi:10.2105/AJPH.2016.303478](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303478)
+0. Conte KP, Odden MC, <u>Linton NM</u>, Harvey MS. Effectiveness of a scaled-up arthritis self-management program in Oregon: Walk with ease. <i>Am J Public Health</i>. 2016;106(12). [doi:10.2105/AJPH.2016.303478](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303478)
 <br><br>
-2. Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd J, Inouye W, Gonzales E, Rietberg K, Melius B, Wise ME, Sinatra J, Marsland P, Li Zhen, Meek R, Kay M, Duchin J, Lindquist S. Outbreak of multidrug-resistant Salmonella infections linked to pork—Washington, 2015. <i>MMWR</i>. 2016;65(14);379–381. [doi:10.15585/mmwr.mm6514a4](https://www.cdc.gov/mmwr/volumes/65/wr/mm6514a4.htm)
+0. Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd J, Inouye W, Gonzales E, Rietberg K, Melius B, Wise ME, Sinatra J, Marsland P, Li Zhen, Meek R, Kay M, Duchin J, Lindquist S. Outbreak of multidrug-resistant Salmonella infections linked to pork—Washington, 2015. <i>MMWR</i>. 2016;65(14);379–381. [doi:10.15585/mmwr.mm6514a4](https://www.cdc.gov/mmwr/volumes/65/wr/mm6514a4.htm)
 <br><br>
-1. Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
+0. Biswas T, Islam MS, <u>Linton NM</u>, Rawal LB. Socio-economic inequality of chronic non-communicable diseases in Bangladesh. <i>PLoS One</i>. 2016;11(11). [doi:10.1371/journal.pone.0167140](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167140)
 <br>
+{: reversed="reversed"}
 
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
