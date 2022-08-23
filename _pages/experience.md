@@ -55,8 +55,8 @@ Office of Communicable Disease Epidemiology
 <tbody>
 <tr>
 <td markdown="span">2021</td>
-<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University (expected)<br>
-Advisor: Hiroshi Nishiura</td>
+<td markdown="span">Doctor of Philosophy (PhD), Social Medicine, Hokkaido University<br>
+Advisors: Hiroshi Nishiura, Akiko Tamakoshi</td>
 </tr>
 <tr>
 <td markdown="span">2018</td>
