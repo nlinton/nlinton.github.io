@@ -83,6 +83,10 @@ Advisors: Hiroshi Nishiura, Akiko Tamakoshi</td>
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
 <tr>
+<td markdown="span">2022-2023</td>
+<td markdown="span">Fellow, Japan-U.S. Science Communication & Policy Fellowship Network Program</td>
+</tr>
+<tr>
 <td markdown="span">2020</td>
 <td markdown="span">COVID-19 Cluster Response Team<br>
 [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/index.html), Tokyo, Japan</td>
@@ -158,7 +162,7 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <tbody>
 <tr>
 <td markdown="span">2022</td>
-<td markdown="span">Ohtsuka Award</td>
+<td markdown="span">Ohtsuka Award, Hokkaido University</td>
 </tr>
 <tr>
 <td markdown="span">2019</td>
@@ -166,7 +170,7 @@ Oregon State University, Corvallis, Oregon, USA</td>
 </tr>
 <tr>
 <td markdown="span">2012</td>
-<td markdown="span">All there is is us and us</td>
+<td markdown="span">All there is is us and us, Center for Human Development, Inc.</td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +226,6 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
-<tr>
 <td markdown="span">2018-2021</td>
 <td markdown="span">Freelance Private English Tutor, Sapporo and Kyoto, Japan</td>
 </tr>
