@@ -84,7 +84,8 @@ Advisors: Hiroshi Nishiura, Akiko Tamakoshi</td>
 <tbody>
 <tr>
 <td markdown="span">2022-2023</td>
-<td markdown="span">Fellow, Japan-U.S. Science Communication & Policy Fellowship Network Program</td>
+<td markdown="span">Fellow<br>
+[Japan-U.S. Science Communication & Policy Fellowship Network Program](https://www.einnews.com/pr_news/587170433/fellows-of-japan-u-s-science-communication-policy-fellowship-network-program-announced)</td>
 </tr>
 <tr>
 <td markdown="span">2020</td>
