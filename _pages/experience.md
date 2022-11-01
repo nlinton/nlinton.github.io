@@ -227,6 +227,7 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
+<tr>
 <td markdown="span">2018-2021</td>
 <td markdown="span">Freelance Private English Tutor, Sapporo and Kyoto, Japan</td>
 </tr>
