@@ -12,7 +12,7 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2022**<br>
-0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerging Infectious Diseases</i>. Accepted.
+0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerg Infect Dis</i>. 2022;28(10):2051-2059.
 <br><br>
 0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
 <br><br>
@@ -23,7 +23,7 @@ author_profile: true
 0. Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. <i>Math Biosci Eng</i>. 2022;19(2) 2043-2055. [doi:10.3934/mbe.2022096](https://www.aimspress.com/article/id/61c99531ba35de32ad6e8466)
 <br><br>
 
-    **2021**<br>
+**2021**<br>
 0. <u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
 <br><br>
 0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
