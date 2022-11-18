@@ -12,9 +12,11 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2022**<br>
-0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerg Infect Dis</i>. 2022;28(10):2051-2059.
+0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. <i>Epidemics</i>. 2022. [doi:10.1016/j.epidem.2022.100655](https://www.sciencedirect.com/science/article/pii/S1755436522000950)
 <br><br>
 0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
+<br><br>
+0. Akhmetzhanov AR, Cheng H-Y, <u>Linton NM</u>, Ponce L, Jian S-W, Lin H-H. Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April–August 2021. <i>Emerg Infect Dis</i>. 2022;28(10):2051-2059.
 <br><br>
 0. Kobayashi T, Yoshii K, <u>Linton NM</u>, Suzuki M, Nishiura H. Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data. <i>Int J Infect Dis</i>. 2022;115:109-115. [doi:10.1016/j.ijid.2021.12.319](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
 <br><br>
@@ -39,9 +41,10 @@ author_profile: true
 0. <u>Linton NM</u>, DeBolt C, Newman LP, Tasslimi A, Matheson J. Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016. <i>J Immigr Minor Heal</i>. 2020;22:3-9. [doi:10.1007/s10903-019-00949-8](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)
 <br><br>
 0. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections. <i>Int J Infect Dis</i>. 2020;93:284-286. [doi:10.1016/j.ijid.2020.02.060](https://www.ijidonline.com/article/S1201-9712(20)30119-3/fulltext)
-<!-- <a href="/files/pubs/Nishiura_2020_SI.pdf"><img src="/images/pdf_24x24.png"/></a> -->
 <br><br>
 0. Nishiura H, <u>Linton NM</u>, Akhmetzhanov AR. Initial cluster of novel coronavirus (2019‐nCoV) infections in Wuhan, China is consistent with substantial human‐to‐human transmission. <i>J Clin Med</i>. 2020;9(2):488. [doi:10.3390/jcm9020488](https://www.mdpi.com/2077-0383/9/2/488)
+<br><br>
+0. Oshitani H, <u>The Expert Members of the National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
 <br><br>
 0. Anzai A, Kobayashi T, <u>Linton NM</u>, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung S-m, Miyama T, Akhmetzhanov AR, Nishiura H. Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19). <i>J Clin Med</i>. 2020;9(2):601. [doi:10.3390/jcm9020601](https://www.mdpi.com/2077-0383/9/2/601)
 <br><br>
@@ -60,8 +63,6 @@ author_profile: true
 0. Kamiya H, Fujikura H, Doi I, Kakimoto K, Suzuki M, Matsui T, Sunagawa T, Takahashi T, Yamagishi T, Samuel A, Nao N, Takayama I, Saito S, Asanuma H, Kageyama T, Okamoto K, Ohnishi M, Wakita T, <u>Linton NM</u>, Yoshii K, Kobayashi T, Mahamud AR, Griffith MM. Epidemiology of COVID-19 outbreak on cruise ship quarantined at Yokohama, Japan, February 2020. <i>Emerg Infect Dis</i>. 2020;26(11):2591-2597. [doi:10.3201/eid2611.201165](https://wwwnc.cdc.gov/eid/article/26/11/20-1165_article)
 <br><br>
 0. Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
-<br><br>
-0. Oshitani H, <u>The Expert Members of the National COVID-19 Cluster Taskforce at The Ministry of Health, Labour and Welfare, Japan</u>. Cluster-based approach to coronavirus disease 2019 (COVID-19) response in Japan, February to April 2020. <i>Japan J Infect Dis</i>. 2020;73(6):491–493. [doi:10.7883/yoken.JJID.2020.363](https://www.jstage.jst.go.jp/article/yoken/73/6/73_JJID.2020.363/_article)
 <br><br>
 
     **2017**<br>
@@ -84,8 +85,6 @@ author_profile: true
 ## <a name="pp"></a> Preprints ##
 ***
 **2021**<br>
-<u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. Under review. <i>medRxiv</i>. 2021. [doi:10.1101/2021.08.29.21262512](https://www.medrxiv.org/content/10.1101/2021.08.29.21262512v1)
-<br><br>
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
 **2020**<br>
@@ -117,6 +116,9 @@ Epidemiologic profile of viral hepatitis C in Washington State. June 2016. Washi
 
 ## <a name="bc"></a> Book contributions ##
 ***
-Hiroshi Nishiura. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2021. Co-author for chapters 2 and 11. [‎ISBN-13: 978-4765318822](https://www.amazon.co.jp/-/en/%E8%A5%BF%E6%B5%A6-%E5%8D%9A/dp/4765318826/). [In Japanese]
+Nishiura H, Kobayashi T, Anzai A, Aihara K, Linton NM. Mathematical modeling of infectious disease
+epidemics. Nippyo, 2022. [ISBN-13: 978-4535787599](https://www.amazon.co.jp/dp/453578759X) [In Japanese]
+<br><br>
+Nishiura H. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2021. Co-author for chapters 2 and 11. [ISBN-13: 978-4765318822](https://www.amazon.co.jp//dp/4765318826/). [In Japanese]
 <br><br>
 Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones. San Diego: California Sea Grant College Program, 2007. [ISBN-10: 1888691174](https://www.abebooks.com/9781888691177/San-Diego-Bay-Story-Exploitation-1888691174/plp).
