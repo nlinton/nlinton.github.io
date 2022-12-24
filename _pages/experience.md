@@ -78,10 +78,15 @@ Advisors: Hiroshi Nishiura, Akiko Tamakoshi</td>
 </table>
 
 ***
-## Research, technical assistance, and consulting
+## Professional development, research, and technical assistance
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
+<tr>
+<td markdown="span">2023</td>
+<td markdown="span">Fellow<br>
+[Emerging Leaders in Biosecurity Initiative](https://www.centerforhealthsecurity.org/our-work/emergingbioleaders/)</td>
+</tr>
 <tr>
 <td markdown="span">2022-2023</td>
 <td markdown="span">Fellow<br>
@@ -227,6 +232,10 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <table cellspacing="0" cellpadding="0">
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
+<tr>
+<td markdown="span">2021-present</td>
+<td markdown="span">Freelance Japanese -> English Translator, Remote</td>
+</tr>
 <tr>
 <td markdown="span">2018-2021</td>
 <td markdown="span">Freelance Private English Tutor, Sapporo and Kyoto, Japan</td>
