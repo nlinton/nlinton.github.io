@@ -233,8 +233,16 @@ Oregon State University, Corvallis, Oregon, USA</td>
 <colgroup><col width="15%" /><col width="85%" /></colgroup>
 <tbody>
 <tr>
-<td markdown="span">2021-present</td>
-<td markdown="span">Freelance Japanese -> English Translator, Remote</td>
+<td markdown="span">2023-present</td>
+<td markdown="span">Member, Underwater Recovery Team, Clark County Sheriff's Office Search and Rescue, WA</td>
+</tr>
+<tr>
+<td markdown="span">2023-present</td>
+<td markdown="span">Mountain Steward, Mount Saint Helens Institute, Amboy, WA</td>
+</tr>
+<tr>
+<td markdown="span">2022-present</td>
+<td markdown="span">Hike leader; Canyon and Backcountry Ski Touring assistant leader, Mazamas, Portland, OR</td>
 </tr>
 <tr>
 <td markdown="span">2018-2021</td>

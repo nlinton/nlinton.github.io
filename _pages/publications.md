@@ -15,6 +15,7 @@ author_profile: true
 0. Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, Linton NM, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. medRxiv. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
 <br><br>
 0. Akhmetzhanov AR, Lee HJ, Jung S-m, Linton NM, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. Epidemiology & Infection. 2024;152(e27). [doi:10.1017/S0950268824000086](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/reconstruction-and-analysis-of-the-transmission-network-of-african-swine-fever-in-peoples-republic-of-china-august-2018september-2019/6918CF89DE1AF34304712EF1A76633DD)
+<br><br>
 
     **2022**<br>
 0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. <i>Epidemics</i>. 2022;41(100655). [doi:10.1016/j.epidem.2022.100655](https://www.sciencedirect.com/science/article/pii/S1755436522000950)
