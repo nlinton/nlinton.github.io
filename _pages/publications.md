@@ -11,13 +11,13 @@ author_profile: true
 
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
-    **2024**<br>
+**2024**<br>
 0. Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, Linton NM, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. medRxiv. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
 <br><br>
 0. Akhmetzhanov AR, Lee HJ, Jung S-m, Linton NM, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. Epidemiology & Infection. 2024;152(e27). [doi:10.1017/S0950268824000086](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/reconstruction-and-analysis-of-the-transmission-network-of-african-swine-fever-in-peoples-republic-of-china-august-2018september-2019/6918CF89DE1AF34304712EF1A76633DD)
 <br><br>
 
-    **2022**<br>
+**2022**<br>
 0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Correlation between times to SARS-CoV-2 symptom onset and secondary transmission undermines epidemic control efforts. <i>Epidemics</i>. 2022;41(100655). [doi:10.1016/j.epidem.2022.100655](https://www.sciencedirect.com/science/article/pii/S1755436522000950)
 <br><br>
 0. <u>Linton NM</u>, Lovell-Read FA, Southall E, Lee H, Akhmetzhanov AR, Thompson RN, Nishiura H. When do epidemics end? Scientific insights from mathematical modelling studies. <i>Centaurus</i>. 2022;64(1) 31-60. [doi:10.1484/J.CNT.5.130125](https://www.brepolsonline.net/doi/full/10.1484/J.CNT.5.130125)
@@ -31,7 +31,7 @@ author_profile: true
 0. Miyama T, Jung S-m, Hayashi K, Anzai A, Kinoshita R, Kobayashi T, <u>Linton NM</u>, Suzuki A, Yang Y, Yuan B, Kayano T, Akhmetzhanov AR, Nishiura H.  Phenomenological and mechanistic models for predicting early transmission data of COVID-19. <i>Math Biosci Eng</i>. 2022;19(2) 2043-2055. [doi:10.3934/mbe.2022096](https://www.aimspress.com/article/id/61c99531ba35de32ad6e8466)
 <br><br>
 
-    **2021**<br>
+**2021**<br>
 0. <u>Linton NM</u>, Jung S-m, Nishiura H. Not all fun and games: Potential incidence of SARS-CoV-2 infections during the Tokyo 2020 Olympic Games. <i>Math Biosci Eng</i>. 2021;18(6)9685-9696. [doi: 10.3934/mbe.2021474](https://www.aimspress.com/article/doi/10.3934/mbe.2021474).
 <br><br>
 0. <u>Linton NM</u>, Akhmetzhanov AR, Nishiura H. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan. <i>Int J Infect Dis</i>. 2021;105:286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/)
@@ -39,7 +39,7 @@ author_profile: true
 0. Akhmetzhanov AR, Mizumoto K, Jung S-m, <u>Linton NM</u>, Omori R, Nishiura H. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: the example of Hokkaido, Japan during February-March 2020. <i>J Clin Med</i>. 2021;10(11), 2392. [doi:10.3390/jcm10112392](https://www.mdpi.com/2077-0383/10/11/2392)
 <br><br>
 
-    **2020**<br>
+**2020**<br>
 0. <u>Linton NM</u>, Kobayashi T, Yang Y, Hayashi K, Akhmetzhanov AR, Jung S-m, Yuan B, Kinoshita R, Nishiura H. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. <i>J Clin Med</i>. 2020;9(2)538. [doi:10.3390/jcm9020538](https://www.mdpi.com/2077-0383/9/2/538)
 <br><br>
 0. <u>Linton NM</u>, Keita M, Moitinho de Almeida M, Gil-Cuesta J, Guha-Sapir, D, Nishiura H, van Loenhout JAF. Impact of mass vaccination campaigns on measles transmission during an outbreak in Guinea, 2017. <i>J Infect</i>. 2020;80(3):1-7. [doi:10.1016/j.jinf.2019.11.023](https://www.journalofinfection.com/article/S0163-4453(20)30023-2/abstract)
@@ -71,11 +71,11 @@ author_profile: true
 0. Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-m, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, <u>Linton NM</u>. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). <i>Int J Infect Dis</i>. 2020;94:154–155. [doi:10.1016/j.ijid.2020.03.020](https://www.ijidonline.com/article/S1201-9712(20)30139-9/fulltext)
 <br><br>
 
-    **2017**<br>
+**2017**<br>
 0. Bonwitt J, Poel A, DeBolt C, Gonzales E, Lopez A, Routh J, Rietberg K, <u>Linton NM</u>, Reggin J, Sejvar JJ, Lindquist S, Otten C. Acute flaccid myelitis among children — Washington, September–November 2016. <i>MMWR</i>. 2017;66(31):826-829. [doi:10.15585/mmwr.mm6631a2](https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a2.htm)
 <br><br>
 
-    **2016**<br>
+**2016**<br>
 0. Conte KP, Odden MC, <u>Linton NM</u>, Harvey MS. Effectiveness of a scaled-up arthritis self-management program in Oregon: Walk with ease. <i>Am J Public Health</i>. 2016;106(12). [doi:10.2105/AJPH.2016.303478](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303478)
 <br><br>
 0. Kawakami VM, Bottichio L, Angelo K, <u>Linton NM</u>, Kissler B, Basler C, Lloyd J, Inouye W, Gonzales E, Rietberg K, Melius B, Wise ME, Sinatra J, Marsland P, Li Zhen, Meek R, Kay M, Duchin J, Lindquist S. Outbreak of multidrug-resistant Salmonella infections linked to pork—Washington, 2015. <i>MMWR</i>. 2016;65(14);379–381. [doi:10.15585/mmwr.mm6514a4](https://www.cdc.gov/mmwr/volumes/65/wr/mm6514a4.htm)
