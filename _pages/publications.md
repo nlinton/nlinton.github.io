@@ -12,8 +12,6 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 **2024**<br>
-0. Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, Linton NM, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. medRxiv. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
-<br><br>
 0. Akhmetzhanov AR, Lee HJ, Jung S-m, Linton NM, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. Epidemiology & Infection. 2024;152(e27). [doi:10.1017/S0950268824000086](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/reconstruction-and-analysis-of-the-transmission-network-of-african-swine-fever-in-peoples-republic-of-china-august-2018september-2019/6918CF89DE1AF34304712EF1A76633DD)
 <br><br>
 
@@ -90,10 +88,15 @@ author_profile: true
 
 ## <a name="pp"></a> Preprints ##
 ***
-**2021**<br>
+**2024**<br>
+Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, <u>Linton NM</u>, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. medRxiv. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
+<br><br>
+
+    **2021**<br>
 Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
 <br><br>
-**2020**<br>
+
+    **2020**<br>
 Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br><br>
 Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
