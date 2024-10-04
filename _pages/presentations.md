@@ -7,6 +7,16 @@ author_profile: true
 
 
 ## Conference presentations ##
+**2024**<br>
+"Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
+[IDWeek 2024](https://idweek.org/). October 18, 2024. Poster presentation.
+<br><br>
+"Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
+West Coast Epidemiology. September 26, 2024. Oral presentation.
+<br><br>
+"Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
+[STI Prevention Conference](https://stipreventionconference.org/). September 18, 2024. Poster presentation (late breaker).
+<br><br>
 **2022**<br>
 "COVID-19 case rates by vaccination status and waning immunity among children and adolescents ages 5-17 in California."<br>
 [ICEID 2022](https://www.iceid.org/). August 8, 2022. Oral presentation (late-breaker).
