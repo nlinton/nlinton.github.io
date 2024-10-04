@@ -13,9 +13,11 @@ author_profile: true
 ***
 
 **2024**<br>
+0. Charniga K, Park S-W, Akhmetzhanov AR, Cori A, Dushoff J, Funk S, Gostic KM, <u>Linton NM</u>, Lison A, Overton CE, Pulliam JRC, Ward T, Cauchemez S, Abbott S. Best practices for estimating and reporting epidemiological delay distributions of infectious diseases using public health surveillance and healthcare data. 2024.
+<br><br>
 0. Ponce L, <u>Linton NM</u>, Toh WT, Cheng H-Y, Thompson RN, Akhmetzhanov AR, Dushoff J. Incubation period and serial interval of mpox in 2022 global outbreak compared with historical estimates. <i>Emerg Infect Dis</i> 2024;30(6). [doi:10.1017/S0950268824000086](https://wwwnc.cdc.gov/eid/article/30/6/23-1095_article)
 <br><br>
-0. Akhmetzhanov AR, Lee HJ, Jung S-m, Linton NM, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>Epidemiology & Infection</i>. 2024;152(e27). [doi:10.1017/S0950268824000086](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/reconstruction-and-analysis-of-the-transmission-network-of-african-swine-fever-in-peoples-republic-of-china-august-2018september-2019/6918CF89DE1AF34304712EF1A76633DD)
+0. Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>Epidemiology & Infection</i>. 2024;152(e27). [doi:10.1017/S0950268824000086](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/reconstruction-and-analysis-of-the-transmission-network-of-african-swine-fever-in-peoples-republic-of-china-august-2018september-2019/6918CF89DE1AF34304712EF1A76633DD)
 <br><br>
 
 **2022**<br>
@@ -93,7 +95,9 @@ author_profile: true
 ***
 
 **2024**<br>
-Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, <u>Linton NM</u>, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. medRxiv. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
+Ravuri SS, Burnor E, Routledge I, Linton NM, Thakur M, Boehm A, Wolfe MK, Bischel HN, Naughton CC, Yu AT, White LA, Leon TM. Real-time county-aggregated wastewater-based estimates for SARS-CoV-2 effective reproduction numbers. <i>medRxiv</i>. 2024. [doi:0.1101/2024.05.02.24306456](https://www.medrxiv.org/content/10.1101/2024.05.02.24306456v1)
+<br><br>
+Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, <u>Linton NM</u>, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. <i>medRxiv</i>. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
 <br><br>
 
 **2021**<br>
