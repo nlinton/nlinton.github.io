@@ -9,9 +9,6 @@ author_profile: true
 ## Conference presentations ##
 **2024**<br>
 "Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
-[IDWeek 2024](https://idweek.org/). October 18, 2024. Poster presentation.
-<br><br>
-"Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
 West Coast Epidemiology. September 26, 2024. Oral presentation.
 <br><br>
 "Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
