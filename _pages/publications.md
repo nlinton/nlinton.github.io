@@ -12,7 +12,7 @@ author_profile: true
 ## <a name="pr"></a> Peer-reviewed publications ##
 ***
 
-0. Charniga K, Park S-W, Akhmetzhanov AR, Cori A, Dushoff J, Funk S, Gostic KM, <u>Linton NM</u>, Lison A, Overton CE, Pulliam JRC, Ward T, Cauchemez S, Abbott S. Best practices for estimating and reporting epidemiological delay distributions of infectious diseases using public health surveillance and healthcare data. 2024.
+0. Charniga K, Park S-W, Akhmetzhanov AR, Cori A, Dushoff J, Funk S, Gostic KM, <u>Linton NM</u>, Lison A, Overton CE, Pulliam JRC, Ward T, Cauchemez S, Abbott S. Best practices for estimating and reporting epidemiological delay distributions of infectious diseases using public health surveillance and healthcare data. <i>PLoS Comput Biol</i> 2024;20(10): e1012520. [doi:10.1371/journal.pcbi.1012520](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012520)
 <br><br>
 0. Ponce L, <u>Linton NM</u>, Toh WT, Cheng H-Y, Thompson RN, Akhmetzhanov AR, Dushoff J. Incubation period and serial interval of mpox in 2022 global outbreak compared with historical estimates. <i>Emerg Infect Dis</i> 2024;30(6). [doi:10.1017/S0950268824000086](https://wwwnc.cdc.gov/eid/article/30/6/23-1095_article)
 <br><br>
