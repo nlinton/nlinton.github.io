@@ -83,21 +83,16 @@ author_profile: true
 ## <a name="pp"></a> Preprints ##
 ***
 
-**2024**<br>
-Ravuri SS, Burnor E, Routledge I, Linton NM, Thakur M, Boehm A, Wolfe MK, Bischel HN, Naughton CC, Yu AT, White LA, Leon TM. Real-time county-aggregated wastewater-based estimates for SARS-CoV-2 effective reproduction numbers. <i>medRxiv</i>. 2024. [doi:0.1101/2024.05.02.24306456](https://www.medrxiv.org/content/10.1101/2024.05.02.24306456v1)
-<br><br>
-Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, <u>Linton NM</u>, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. <i>medRxiv</i>. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
-<br><br>
 
-**2021**<br>
-Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
+0. Ravuri SS, Burnor E, Routledge I, Linton NM, Thakur M, Boehm A, Wolfe MK, Bischel HN, Naughton CC, Yu AT, White LA, Leon TM. Real-time county-aggregated wastewater-based estimates for SARS-CoV-2 effective reproduction numbers. <i>medRxiv</i>. 2024. [doi:0.1101/2024.05.02.24306456](https://www.medrxiv.org/content/10.1101/2024.05.02.24306456v1)
 <br><br>
-
-**2020**<br>
-Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
+0. Park SW, Akhmetzhanov AR, Charniga K, Cori A, Davies NG, Dushoff J, Funk S, Gostic K, Grenfell B, <u>Linton NM</u>, Lipsitch M, Lison A, Overton CE, Ward T, Abbott S. Estimating epidemiological delay distributions for infectious diseases. <i>medRxiv</i>. 2024. [doi:10.1101/2024.01.12.24301247](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1)
 <br><br>
-Akhmetzhanov AR, Lee HJ, Jung S-m, <u>Linton NM</u>, Yang Y, Yuan B, Nishiura H. Reconstruction and analysis of the transmission network of African swine fever in People’s Republic of China, August 2018–September 2019. <i>bioRxiv</i>. 2020. [doi:10.1101/2020.07.12.199760](https://www.biorxiv.org/content/10.1101/2020.07.12.199760v1)
+0. Piantham C, <u>Linton NM</u>, Nishiura H, Ito K. Estimating the elevated transmissibility of the B.1.1.7 strain over previously circulating strains in England using GISAID sequence frequencies. <i>medRxiv</i>. 2021. [doi:10.1101/2020.07.12.199760](https://www.medrxiv.org/content/10.1101/2021.03.17.21253775v4)
+<br><br>
+0. Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br>
+{: reversed="reversed"}
 
 ***
 [Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
