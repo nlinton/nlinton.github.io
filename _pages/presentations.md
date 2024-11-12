@@ -5,8 +5,11 @@ permalink: /presentations/
 author_profile: true
 ---
 
+***
+[Conference presentations](#pres) | [Certifications](#cert) | [Tabletop exercises](#ttx) | 
+<br>
 
-## Conference presentations ##
+## <a name="pres"></a> Conference presentations ##
 **2024**<br>
 "Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
 West Coast Epidemiology. September 26, 2024. Oral presentation.
@@ -103,12 +106,12 @@ Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 <br>
 
 
-## Certifications ##
+## <a name="cert"></a> Certifications ##
 Chronic Disease Self-Management Program lay-leader.
 ICS-100, 200, 700, 800
 
 
-## Tabletop-exercises ##
+## <a name="ttx"></a> Tabletop-exercises ##
 <ul>
   <li>Participant, Johns Hopkins University Clade X tabletop exercise, October 2023.</li>
   <li>Participant, incident management partnership drill between WADOH and PHSKC assessing public health response to a Cascadia Subduction Zone earthquake event.</li>
