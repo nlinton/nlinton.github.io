@@ -109,7 +109,9 @@ ICS-100, 200, 700, 800
 
 
 ## Tabletop-exercises ##
-<ul>Participant, Johns Hopkins University Clade X tabletop exercise, October 2023.
-<ul>Participant, incident management partnership drill between WADOH and PHSKC assessing public health response to a Cascadia Subduction Zone earthquake event. 
-<ul>Participant, Washington State statewide Cascadia emergency preparedness drill, June 2016.
+<ul>
+  <li>Participant, Johns Hopkins University Clade X tabletop exercise, October 2023.</li>
+  <li>Participant, incident management partnership drill between WADOH and PHSKC assessing public health response to a Cascadia Subduction Zone earthquake event.</li>
+  <li>Participant, Washington State statewide Cascadia emergency preparedness drill, June 2016.</li>
+</ul>
 
