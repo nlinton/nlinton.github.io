@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Natalie Linton"
 title_separator          : "-"
 name                     : &name "Natalie Linton"
-description              : &description "Infectious disease epidemiologist"
+description              : &description "Biosecurity researcher"
 url                      : https://nlinton.github.io # site base hostname & protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nlinton/nlinton.github.io"
