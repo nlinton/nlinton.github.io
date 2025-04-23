@@ -1,13 +1,20 @@
 Welcome.
 
 I am a researcher and data scientist with expertise in biosecurity, public health, and infectious disease. 
-
+<br>
+<br>
 🏢 2022-2025: Epidemiologist and Statistician Modeler with the California Department of Public Health
+<br>
 📜 2018-2021: PhD at Hokkaido University on the estimation and application of epidemiological parameters of COVID-19
+<br>
 📜 2017-2018: MSc at Oviedo University and the Catholic University of Louvain in Disaster Epidemiology (Erasmus programme)
+<br>
 🏢 2015-2017: Infectious Disease Surveillance Epidemiologist at the Washington State Department of Health
+<br>
 📜 2013-2015: MPH at Oregon State University in Epidemiology
+<br>
 🏢 2011-2013: Public Health Associate with the Centers for Disease Control and Prevention
+<br>
 
 <!---
 ***
