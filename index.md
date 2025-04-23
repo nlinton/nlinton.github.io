@@ -1,11 +1,13 @@
 Welcome.
 
-I finished my PhD at Hokkaido University in December 2021, studying infectious disease modeling and mathematical epidemiology. I am currently located in Vancouver, WA.
+I am a researcher and data scientist with expertise in biosecurity, public health, and infectious disease. 
 
-My PhD focus was on the estimation and application of epidemiological parameters of COVID-19.
-
-Before starting my PhD, I worked at local and state health departments in the United States, first in public health (chronic disease and maternal and child health) before moving into infectious disease surveillance.
-
+🏢 2022-2025: Epidemiologist and Statistician Modeler with the California Department of Public Health
+📜 2018-2021: PhD at Hokkaido University on the estimation and application of epidemiological parameters of COVID-19
+📜 2017-2018: MSc at Oviedo University and the Catholic University of Louvain in Disaster Epidemiology (Erasmus programme)
+🏢 2015-2017: Infectious Disease Surveillance Epidemiologist at the Washington State Department of Health
+📜 2013-2015: MPH at Oregon State University in Epidemiology
+🏢 2011-2013: Public Health Associate with the Centers for Disease Control and Prevention
 
 <!---
 ***
