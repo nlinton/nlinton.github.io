@@ -3,7 +3,7 @@ Welcome.
 I am a researcher and data scientist with expertise in biosecurity, public health, and infectious disease. 
 <br>
 <br>
-🏢 2022-2025: Epidemiologist/Statistician Modeler, California Department of Public Health
+🏢 2022-present: Epidemiologist/Statistician Modeler at the California Department of Public Health
 <br>
 📜 2018-2021: PhD at Hokkaido University on the epidemiological parameters of COVID-19
 <br>
@@ -39,3 +39,4 @@ Anzai A, Kobayashi T, Linton NM, Kinoshita R, Hayashi K, Suzuki A, Yang Y, Jung 
 [Mortality rate and causes of death among refugees resettled in Washington State, 2006–2016.](https://link.springer.com/article/10.1007%2Fs10903-019-00949-8)<br>
 Linton NM, DeBolt C, Newman LP, Tasslimi A, Matheson J. | *Journal of Immigrant and Minority Health*
 --->
+
