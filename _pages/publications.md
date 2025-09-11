@@ -14,9 +14,6 @@ author_profile: true
 
 See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9KCrYX4AAAAJ&view_op=list_works&sortby=pubdate) for peer-reviewed publications. 
 
-***
-[Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
-<br>
 
 ## <a name="pp"></a> Preprints ##
 ***
@@ -28,11 +25,6 @@ See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=
 0. Akhmetzhanov AR, <u>Linton NM</u>, Nishiura H. Rising evidence of COVID-19 transmission potential to and between animals: do we need to be concerned? <i>medRxiv</i>. 2020. [doi:10.1101/2020.05.21.20109041](https://www.medrxiv.org/content/10.1101/2020.05.21.20109041v1)
 <br>
 {: reversed="reversed"}
-
-***
-[Peer-reviewed publications](#pr) | [Preprints](#pp) | [Government reports](#gr) | [Other scientific writing](#osw) | [Book contributions](#bc)
-<br>
-
 
 ## <a name="gr"></a> Government reports ##
 ***
@@ -58,4 +50,5 @@ epidemics. Nippyo, 2022. [ISBN-13: 978-4535787599](https://www.amazon.co.jp/dp/4
 Nishiura H. An introduction to data analysis for infectious disease epidemiology. Kinpodo, 2021. Co-author for chapters 2 and 11. [ISBN-13: 978-4765318822](https://www.amazon.co.jp//dp/4765318826/). [In Japanese]
 <br><br>
 Students of The Gary and Jerri-Ann Jacobs High Tech High. San Diego Bay: A Story of Exploitation and Restoration. Eds. <u>Natalie Linton</u>, Gwen Michael-Jones. San Diego: California Sea Grant College Program, 2007. [ISBN-10: 1888691174](https://www.abebooks.com/9781888691177/San-Diego-Bay-Story-Exploitation-1888691174/plp).
+
 
