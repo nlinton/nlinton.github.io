@@ -3,7 +3,7 @@ Welcome.
 I am a researcher and data scientist with expertise in biosecurity, public health, and infectious disease. 
 <br>
 <br>
-🏢 2022-present: Epidemiologist/Statistician Modeler at the California Department of Public Health
+🏢 2022-present: Statistician Modeler at the California Department of Public Health
 <br>
 📜 2018-2021: PhD at Hokkaido University on the epidemiological parameters of COVID-19
 <br>
