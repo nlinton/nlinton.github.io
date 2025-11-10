@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ***
-[Conference presentations](#pres) | [Symposium organizing](#org)| [Tabletop exercises](#ttx) | [Certifications](#cert) | 
+[Conference presentations](#pres) | [Symposium organizing](#org) | [Tabletop exercises](#ttx) | [Certifications](#cert) | 
 <br>
 
 ## <a name="pres"></a> Conference presentations ##
@@ -105,13 +105,14 @@ Oregon Public Health Association Annual Conference. Corvallis, OR, USA. October 
 Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 <br>
 
-## <a name="cert"></a> Certifications ##
+## <a name="org"></a> Symposium Organizing ##
 <ul>
   <li>Organizer and co-founder, annual Western States Modeling Symposium, 2022-2025.</li>
 </ul>
 
 ## <a name="ttx"></a> Tabletop-exercises ##
 <ul>
+  <li>Participant, CEPI tabletop exercise, October 2025.</li>
   <li>Participant, Johns Hopkins University Clade X tabletop exercise, October 2023.</li>
   <li>Participant, incident management partnership drill between WADOH and PHSKC assessing public health response to a Cascadia Subduction Zone earthquake event.</li>
   <li>Participant, Washington State statewide Cascadia emergency preparedness drill, June 2016.</li>
