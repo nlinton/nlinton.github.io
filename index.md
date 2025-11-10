@@ -1,7 +1,6 @@
 Welcome.
 
-I am a researcher and data scientist with expertise in biosecurity, public health, and infectious disease. 
-<br>
+Biosecurity professional experienced in infectious disease epidemiology, statistical modeling, disaster response, risk assessment, and pandemic preparedness. I am currently developing expertise in AI models and policy to help anticipate and mitigate AI-driven biosecurity risks.<br>
 <br>
 🏢 2022-present: Statistician Modeler at the California Department of Public Health
 <br>
