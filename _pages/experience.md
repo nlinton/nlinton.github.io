@@ -10,43 +10,17 @@ redirect_from:
 ***
 ## Employment
 *California Department of Public Health*<br>
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2022-Present</td>
-<td markdown="span">Epidemiologist/Statistician Modeler</td>
-</tr>
-</tbody>
-</table>
-<br>
-*Washington State Department of Health*<br>
-Office of Communicable Disease Epidemiology
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2016-2017</td>
-<td markdown="span">Infectious Disease Surveillance Epidemiologist</td>
-</tr>
-<tr>
-<td markdown="span">2015-2016</td>
-<td markdown="span">[CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/)</td>
-</tr>
-</tbody>
-</table>
-<br>
-*Centers for Disease Control and Prevention (CDC)*
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2011-2013</td>
-<td markdown="span">[Public Health Associate](https://www.cdc.gov/phap/about/index.html)</td>
-</tr>
-</tbody>
-</table>
+Epidemiologist/Statistician Modeler, 2022-present
+<br><br>
 
+*Washington State Department of Health*<br>
+Office of Communicable Disease Epidemiology<br>
+Infectious Disease Surveillance Epidemiologist, 2016-2017<br>
+[CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/), 2015-2016<br>
+
+<br><br>
+*Centers for Disease Control and Prevention (CDC)*
+[Public Health Associate](https://www.cdc.gov/phap/about/index.html), 2011-2013
 
 ***
 ## Education
@@ -227,70 +201,3 @@ Oregon State University, Corvallis, Oregon, USA</td>
 </tbody>
 </table>
 
-***
-## Other work and volunteer activities
-<table cellspacing="0" cellpadding="0">
-<colgroup><col width="15%" /><col width="85%" /></colgroup>
-<tbody>
-<tr>
-<td markdown="span">2025-present</td>
-<td markdown="span">Treasurer, Lincoln Neighborhood Association</td>
-</tr>
-<tr>
-<td markdown="span">2023-present</td>
-<td markdown="span">Member, Clark County Sheriff's Office Search and Rescue</td>
-</tr>
-<tr>
-<td markdown="span">2023-present</td>
-<td markdown="span">Mountain Steward, Mount Saint Helens Institute</td>
-</tr>
-<tr>
-<td markdown="span">2022-present</td>
-<td markdown="span">Hike leader; Canyon and Backcountry Ski Touring assistant leader, Mazamas</td>
-</tr>
-<tr>
-<td markdown="span">2018-2021</td>
-<td markdown="span">Freelance Private English Tutor, Sapporo and Kyoto, Japan</td>
-</tr>
-<tr>
-<td markdown="span">2017</td>
-<td markdown="span">Volunteer Gardener, Seattle Japanese Garden, Seattle, WA</td>
-</tr>
-<tr>
-<td markdown="span">2017</td>
-<td markdown="span">Summit Ambassador, Summit at Snoqualmie, Snoqualmie Pass, WA</td>
-</tr>
-<tr>
-<td markdown="span">2012-2013</td>
-<td markdown="span">Volunteer, American Red Cross, La Grande, OR</td>
-</tr>
-<tr>
-<td markdown="span">2012-2013</td>
-<td markdown="span">Volunteer, Eastern Oregon Search and Rescue, La Grande, OR</td>
-</tr>
-<tr>
-<td markdown="span">2010-2011</td>
-<td markdown="span">Private English Tutor, R-pool Inc., Kyoto, Japan</td>
-</tr>
-<tr>
-<td markdown="span">2008</td>
-<td markdown="span">Intern, Freer and Sackler Galleries, Washington, DC</td>
-</tr>
-<tr>
-<td markdown="span">2008-2009</td>
-<td markdown="span">Public Safety Aid/Field Trainer, Department of Public Safety, American University, Washington, DC</td>
-</tr>
-<tr>
-<td markdown="span">2006-2008</td>
-<td markdown="span">Hydrologic Technician, United States Geological Survey, San Diego, CA</td>
-</tr>
-<tr>
-<td markdown="span">2006</td>
-<td markdown="span">Summer Intern, United States Geological Survey, San Diego, CA</td>
-</tr>
-<tr>
-<td markdown="span">2004-2007</td>
-<td markdown="span">Volunteer, Friends of the Library, San Diego Public Library, San Diego, CA</td>
-</tr>
-</tbody>
-</table>
