@@ -16,8 +16,8 @@ Epidemiologist/Statistician Modeler, 2022-present<br>
 *Washington State Department of Health*<br>
 Infectious Disease Surveillance Epidemiologist, 2016-2017<br>
 [CDC/CSTE Applied Epidemiology Fellow](https://cstefellows.wpengine.com/), 2015-2016<br>
-
 <br>
+
 *Centers for Disease Control and Prevention (CDC)*<br>
 [Public Health Associate](https://www.cdc.gov/phap/about/index.html), 2011-2013<br>
 
