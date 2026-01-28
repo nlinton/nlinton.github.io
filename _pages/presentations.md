@@ -18,7 +18,7 @@ author_profile: true
 [Epidemics10](https://conferenceregistration.elsevier.com/EPIDEMICS-10-10th-International-Conference-on-Infectious-Disease-Dynamics-2025). December 3, 2025. Poster presentation.
 <br><br>
 "Scenario projections of congenital syphilis cases in California, 2025–2030."<br>
-[2025 CSTE Annual Conference](). October 18, 2024. Oral presentation (presented by Tomas Leon).
+[2025 CSTE Annual Conference](). June 10, 2025. Oral presentation (presented by Tomas Leon).
 <br><br>
 **2024**<br>
 "Scenario projections of congenital syphilis cases in California, 2023–2030."<br>
@@ -136,6 +136,7 @@ Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 Chronic Disease Self-Management Program lay-leader.
 ICS-100, 200, 700, 800
 <br>
+
 
 
 
