@@ -127,7 +127,7 @@ Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 <ul>
   <li>Participant, CEPI tabletop exercise, October 2025.</li>
   <li>Participant, Johns Hopkins University Clade X tabletop exercise, October 2023.</li>
-  <li>Participant, incident management partnership drill between WADOH and PHSKC assessing public health response to a Cascadia Subduction Zone earthquake event.</li>
+  <li>Participant, incident management partnership drill between the Washington State Department of Health and Public Health Seattle and King County assessing public health response to a Cascadia Subduction Zone earthquake event.</li>
   <li>Participant, Washington State statewide Cascadia emergency preparedness drill, June 2016.</li>
 </ul>
 
@@ -136,6 +136,7 @@ Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 Chronic Disease Self-Management Program lay-leader.
 ICS-100, 200, 700, 800
 <br>
+
 
 
 
