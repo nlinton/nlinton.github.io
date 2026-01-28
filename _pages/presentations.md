@@ -13,6 +13,7 @@ author_profile: true
 **2025**<br>
 "Scenario trajectories across scoped intervention axes." (The Art of Epidemics)<br>
 [Epidemics10](https://conferenceregistration.elsevier.com/EPIDEMICS-10-10th-International-Conference-on-Infectious-Disease-Dynamics-2025). December 3, 2025. Lightning talk.
+<br><br>
 "Scenario projections of congenital syphilis cases in California, 2025–2030."<br>
 [Epidemics10](https://conferenceregistration.elsevier.com/EPIDEMICS-10-10th-International-Conference-on-Infectious-Disease-Dynamics-2025). December 3, 2025. Poster presentation.
 <br><br>
@@ -135,5 +136,6 @@ Oregon Self-Management Forum. Portland, OR, USA. May 2013. Poster presentation.
 Chronic Disease Self-Management Program lay-leader.
 ICS-100, 200, 700, 800
 <br>
+
 
 
