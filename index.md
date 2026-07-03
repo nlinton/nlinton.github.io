@@ -2,9 +2,9 @@ Welcome.
 
 Biosecurity professional experienced in infectious disease epidemiology, statistical modeling, disaster response, risk assessment, and pandemic preparedness. I am currently developing expertise in AI models and policy to help anticipate and mitigate AI-driven biosecurity risks.<br>
 <br>
-🏢 2022-present: Statistician Modeler at the California Department of Public Health
-<br>
 🏢 2026: Summer Fellow at the Centre for the Governance of AI (GovAI)
+<br>
+🏢 2022-present: Statistician Modeler at the California Department of Public Health
 <br>
 📜 2018-2021: PhD at Hokkaido University on the epidemiological parameters of COVID-19
 <br>
