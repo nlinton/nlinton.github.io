@@ -4,6 +4,8 @@ Biosecurity professional experienced in infectious disease epidemiology, statist
 <br>
 🏢 2022-present: Statistician Modeler at the California Department of Public Health
 <br>
+🏢 2026: Summer Fellow at the Centre for the Governance of AI (GovAI)
+<br>
 📜 2018-2021: PhD at Hokkaido University on the epidemiological parameters of COVID-19
 <br>
 📜 2017-2018: MSc at Oviedo University in Disaster Epidemiology (Erasmus programme)
